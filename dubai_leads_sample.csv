@@ -1,108 +1,151 @@
-Property_ID,Area,Type,Price_AED,Status
-DXB-001,Dubai Hills,Apartment,11355287,Available
-DXB-002,Palm Jumeirah,Penthouse,6680499,Available
-DXB-003,Downtown Dubai,Apartment,23914038,Sold
-DXB-004,Dubai Hills,Villa,801145,Under Offer
-DXB-005,JVC,Townhouse,21028364,Available
-DXB-006,Palm Jumeirah,Townhouse,5447449,Available
-DXB-007,Downtown Dubai,Apartment,23310337,Available
-DXB-008,Dubai Hills,Penthouse,3730443,Available
-DXB-009,Downtown Dubai,Villa,22116176,Sold
-DXB-010,Downtown Dubai,Villa,1221858,Sold
-DXB-011,Palm Jumeirah,Penthouse,6358591,Sold
-DXB-012,Palm Jumeirah,Penthouse,20404034,Under Offer
-DXB-013,JVC,Townhouse,7732003,Sold
-DXB-014,Dubai Hills,Penthouse,1176475,Available
-DXB-015,JVC,Villa,21448676,Under Offer
-DXB-016,Dubai Hills,Townhouse,15940106,Under Offer
-DXB-017,Palm Jumeirah,Villa,21495657,Available
-DXB-018,Dubai Hills,Villa,19060386,Under Offer
-DXB-019,Palm Jumeirah,Penthouse,4581951,Under Offer
-DXB-020,JVC,Penthouse,11757637,Available
-DXB-021,Dubai Marina,Penthouse,16206754,Available
-DXB-022,Dubai Marina,Apartment,15600841,Sold
-DXB-023,Downtown Dubai,Townhouse,2984799,Under Offer
-DXB-024,Dubai Marina,Apartment,13003104,Available
-DXB-025,Dubai Marina,Penthouse,22797957,Sold
-DXB-026,Dubai Hills,Penthouse,23443569,Available
-DXB-027,Business Bay,Penthouse,16308723,Sold
-DXB-028,Business Bay,Apartment,23235754,Sold
-DXB-029,Dubai Marina,Apartment,5841112,Sold
-DXB-030,Business Bay,Villa,18291245,Available
-DXB-031,Dubai Hills,Villa,5431374,Sold
-DXB-032,Palm Jumeirah,Penthouse,22703625,Sold
-DXB-033,JVC,Townhouse,16343311,Under Offer
-DXB-034,Downtown Dubai,Apartment,19987078,Available
-DXB-035,Palm Jumeirah,Townhouse,8798410,Available
-DXB-036,Palm Jumeirah,Penthouse,17073607,Sold
-DXB-037,Business Bay,Penthouse,7758304,Under Offer
-DXB-038,JVC,Townhouse,10696027,Under Offer
-DXB-039,Business Bay,Penthouse,8094115,Sold
-DXB-040,Dubai Hills,Townhouse,13938591,Sold
-DXB-041,Business Bay,Penthouse,4800286,Available
-DXB-042,Dubai Hills,Penthouse,12142883,Sold
-DXB-043,JVC,Townhouse,980897,Available
-DXB-044,JVC,Apartment,9571039,Available
-DXB-045,Palm Jumeirah,Villa,15693312,Sold
-DXB-046,Dubai Marina,Apartment,22817249,Under Offer
-DXB-047,Dubai Hills,Penthouse,10487470,Sold
-DXB-048,Dubai Hills,Apartment,9700407,Under Offer
-DXB-049,Dubai Marina,Penthouse,8457883,Sold
-DXB-050,Dubai Marina,Townhouse,12294132,Under Offer
-DXB-051,Dubai Hills,Apartment,4800791,Sold
-DXB-052,Palm Jumeirah,Townhouse,6861782,Sold
-DXB-053,Palm Jumeirah,Villa,21505798,Available
-DXB-054,Palm Jumeirah,Penthouse,2442993,Under Offer
-DXB-055,Downtown Dubai,Townhouse,18305061,Sold
-DXB-056,Business Bay,Townhouse,10152574,Under Offer
-DXB-057,Palm Jumeirah,Penthouse,1893778,Available
-DXB-058,Business Bay,Townhouse,12816238,Available
-DXB-059,Dubai Hills,Villa,10915475,Sold
-DXB-060,Dubai Hills,Townhouse,8111247,Available
-DXB-061,Palm Jumeirah,Townhouse,6991187,Available
-DXB-062,JVC,Apartment,20769897,Available
-DXB-063,Dubai Marina,Apartment,5054022,Available
-DXB-064,Dubai Hills,Townhouse,5172846,Under Offer
-DXB-065,Palm Jumeirah,Apartment,19292056,Under Offer
-DXB-066,Dubai Marina,Townhouse,2542693,Under Offer
-DXB-067,Downtown Dubai,Apartment,11313952,Sold
-DXB-068,JVC,Villa,19318392,Under Offer
-DXB-069,Business Bay,Penthouse,5681567,Available
-DXB-070,Dubai Hills,Villa,17279030,Under Offer
-DXB-071,Dubai Hills,Villa,18012334,Sold
-DXB-072,Downtown Dubai,Apartment,11217438,Under Offer
-DXB-073,Downtown Dubai,Townhouse,12332872,Available
-DXB-074,JVC,Penthouse,4698680,Sold
-DXB-075,Palm Jumeirah,Townhouse,9498232,Sold
-DXB-076,Downtown Dubai,Apartment,24762592,Available
-DXB-077,Business Bay,Townhouse,965235,Under Offer
-DXB-078,Downtown Dubai,Townhouse,2135029,Under Offer
-DXB-079,JVC,Townhouse,20868814,Under Offer
-DXB-080,Dubai Hills,Townhouse,13527403,Sold
-DXB-081,JVC,Penthouse,17603011,Under Offer
-DXB-082,Dubai Hills,Townhouse,6486514,Sold
-DXB-083,Palm Jumeirah,Penthouse,13148086,Under Offer
-DXB-084,Dubai Marina,Villa,20479670,Under Offer
-DXB-085,Business Bay,Townhouse,18854357,Available
-DXB-086,Dubai Marina,Apartment,17864263,Available
-DXB-087,Dubai Hills,Apartment,13287252,Sold
-DXB-088,Business Bay,Penthouse,7415871,Available
-DXB-089,Business Bay,Penthouse,21919970,Available
-DXB-090,Dubai Hills,Penthouse,12685608,Under Offer
-DXB-091,Business Bay,Villa,8617325,Available
-DXB-092,JVC,Villa,1574478,Sold
-DXB-093,Business Bay,Penthouse,16506533,Under Offer
-DXB-094,Business Bay,Villa,20007676,Available
-DXB-095,Palm Jumeirah,Penthouse,855069,Under Offer
-DXB-096,Business Bay,Villa,16800963,Available
-DXB-097,Dubai Hills,Penthouse,9595884,Sold
-DXB-098,JVC,Villa,12828383,Under Offer
-DXB-099,JVC,Villa,20308569,Sold
-DXB-100,Downtown Dubai,Penthouse,14893591,Sold
-INFRA-001,Bayut Agent Portal,Subdomain,N/A,profolio.bayut.com
-INFRA-002,Bayut Email Engine,Subdomain,N/A,omp.emails.bayut.com
-INFRA-003,Bayut Mobile API,Subdomain,N/A,m.bayut.com
-AG-001,Downtown Dubai,Executive Agent,N/A,ahmed.dxb@bayut.agent
-AG-002,Palm Jumeirah,Luxury Specialist,N/A,sarah.palm@bayut.agent
-AG-003,Dubai Marina,Senior Broker,N/A,mike.marina@bayut.agent
-AG-004,Business Bay,Commercial Lead,N/A,youssef.bb@bayut.agent
+Property_ID,Region,Type,Price_USD,Status
+GLOB-001,"New York, USA",Commercial,4394960,Premium Only
+GLOB-002,"New York, USA",Commercial,1341066,Verified
+GLOB-003,"New York, USA",Apartment,1140947,Verified
+GLOB-004,"New York, USA",Commercial,3524414,Trial Access
+GLOB-005,"Berlin, Germany",Villa,3019485,Premium Only
+GLOB-006,"Miami, USA",Commercial,3235927,Premium Only
+GLOB-007,"New York, USA",Commercial,4387433,Premium Only
+GLOB-008,"Dubai, UAE",Commercial,461175,Verified
+GLOB-009,"Dubai, UAE",Commercial,618193,Premium Only
+GLOB-010,"Miami, USA",Villa,1345608,Premium Only
+GLOB-011,"Berlin, Germany",Commercial,2330995,Trial Access
+GLOB-012,"New York, USA",Villa,1087426,Trial Access
+GLOB-013,"New York, USA",Apartment,2645178,Trial Access
+GLOB-014,"Dubai, UAE",Villa,1750051,Verified
+GLOB-015,"London, UK",Apartment,4219109,Trial Access
+GLOB-016,"Dubai, UAE",Penthouse,1683952,Premium Only
+GLOB-017,"London, UK",Penthouse,1398692,Trial Access
+GLOB-018,"Miami, USA",Villa,1801133,Verified
+GLOB-019,"London, UK",Villa,324471,Premium Only
+GLOB-020,"London, UK",Apartment,3141052,Trial Access
+GLOB-021,"Berlin, Germany",Penthouse,3751229,Trial Access
+GLOB-022,"Berlin, Germany",Villa,1547043,Verified
+GLOB-023,"Berlin, Germany",Penthouse,3377288,Verified
+GLOB-024,"Berlin, Germany",Villa,3974203,Trial Access
+GLOB-025,"London, UK",Penthouse,1830612,Trial Access
+GLOB-026,"Dubai, UAE",Penthouse,4658535,Verified
+GLOB-027,"New York, USA",Apartment,3335619,Premium Only
+GLOB-028,"London, UK",Villa,1747445,Verified
+GLOB-029,"London, UK",Commercial,749593,Verified
+GLOB-030,"Miami, USA",Penthouse,769991,Verified
+GLOB-031,"New York, USA",Commercial,3871332,Premium Only
+GLOB-032,"London, UK",Apartment,2045448,Premium Only
+GLOB-033,"Miami, USA",Apartment,4350362,Premium Only
+GLOB-034,"Berlin, Germany",Villa,3029592,Premium Only
+GLOB-035,"London, UK",Penthouse,3525500,Trial Access
+GLOB-036,"Miami, USA",Commercial,3056868,Trial Access
+GLOB-037,"London, UK",Apartment,2638730,Trial Access
+GLOB-038,"Miami, USA",Commercial,2387428,Verified
+GLOB-039,"Miami, USA",Penthouse,3854319,Premium Only
+GLOB-040,"New York, USA",Apartment,2421254,Premium Only
+GLOB-041,"Dubai, UAE",Penthouse,1377498,Trial Access
+GLOB-042,"Miami, USA",Commercial,1778664,Premium Only
+GLOB-043,"London, UK",Commercial,2355752,Trial Access
+GLOB-044,"New York, USA",Apartment,726820,Verified
+GLOB-045,"Dubai, UAE",Apartment,1956944,Premium Only
+GLOB-046,"Berlin, Germany",Commercial,1537481,Premium Only
+GLOB-047,"Miami, USA",Villa,4618028,Verified
+GLOB-048,"Miami, USA",Apartment,4846221,Trial Access
+GLOB-049,"London, UK",Villa,4740900,Premium Only
+GLOB-050,"New York, USA",Apartment,4648536,Verified
+GLOB-051,"New York, USA",Villa,378078,Premium Only
+GLOB-052,"Miami, USA",Apartment,4583351,Verified
+GLOB-053,"Dubai, UAE",Commercial,3640143,Premium Only
+GLOB-054,"New York, USA",Villa,1110829,Premium Only
+GLOB-055,"London, UK",Villa,1484624,Trial Access
+GLOB-056,"Berlin, Germany",Villa,2000339,Premium Only
+GLOB-057,"Miami, USA",Penthouse,4799975,Trial Access
+GLOB-058,"Dubai, UAE",Penthouse,469609,Verified
+GLOB-059,"Miami, USA",Commercial,3646210,Trial Access
+GLOB-060,"Miami, USA",Apartment,3751660,Premium Only
+GLOB-061,"London, UK",Villa,4449334,Verified
+GLOB-062,"Miami, USA",Commercial,3407889,Premium Only
+GLOB-063,"New York, USA",Villa,2708544,Verified
+GLOB-064,"Berlin, Germany",Penthouse,3155599,Premium Only
+GLOB-065,"London, UK",Penthouse,3702319,Trial Access
+GLOB-066,"Dubai, UAE",Apartment,4411747,Premium Only
+GLOB-067,"Berlin, Germany",Apartment,4126889,Premium Only
+GLOB-068,"London, UK",Villa,3767021,Trial Access
+GLOB-069,"New York, USA",Apartment,3475369,Verified
+GLOB-070,"Berlin, Germany",Apartment,4355192,Verified
+GLOB-071,"Dubai, UAE",Apartment,504878,Trial Access
+GLOB-072,"Berlin, Germany",Penthouse,893733,Verified
+GLOB-073,"Dubai, UAE",Villa,1645384,Trial Access
+GLOB-074,"London, UK",Apartment,591524,Trial Access
+GLOB-075,"Dubai, UAE",Commercial,4534587,Trial Access
+GLOB-076,"London, UK",Apartment,2342903,Trial Access
+GLOB-077,"New York, USA",Commercial,755143,Verified
+GLOB-078,"Berlin, Germany",Villa,1355317,Verified
+GLOB-079,"Berlin, Germany",Penthouse,1687360,Trial Access
+GLOB-080,"London, UK",Commercial,1402510,Trial Access
+GLOB-081,"Berlin, Germany",Penthouse,2593911,Trial Access
+GLOB-082,"Berlin, Germany",Penthouse,1354384,Verified
+GLOB-083,"London, UK",Commercial,3947346,Premium Only
+GLOB-084,"Dubai, UAE",Villa,1924902,Premium Only
+GLOB-085,"Dubai, UAE",Commercial,802870,Verified
+GLOB-086,"Dubai, UAE",Commercial,777387,Verified
+GLOB-087,"Miami, USA",Penthouse,2988016,Verified
+GLOB-088,"New York, USA",Commercial,2213366,Verified
+GLOB-089,"Berlin, Germany",Villa,3540613,Verified
+GLOB-090,"Dubai, UAE",Villa,827939,Trial Access
+GLOB-091,"Berlin, Germany",Penthouse,3478189,Verified
+GLOB-092,"Berlin, Germany",Apartment,1432007,Premium Only
+GLOB-093,"Miami, USA",Commercial,569189,Trial Access
+GLOB-094,"Dubai, UAE",Penthouse,1235942,Verified
+GLOB-095,"Dubai, UAE",Commercial,1186238,Verified
+GLOB-096,"Dubai, UAE",Penthouse,3061059,Premium Only
+GLOB-097,"London, UK",Penthouse,3254265,Premium Only
+GLOB-098,"New York, USA",Penthouse,2487884,Premium Only
+GLOB-099,"Dubai, UAE",Penthouse,312259,Premium Only
+GLOB-100,"Dubai, UAE",Villa,4307907,Trial Access
+GLOB-101,"Berlin, Germany",Commercial,4119511,Premium Only
+GLOB-102,"Berlin, Germany",Commercial,850515,Trial Access
+GLOB-103,"New York, USA",Villa,351869,Premium Only
+GLOB-104,"New York, USA",Villa,3358276,Verified
+GLOB-105,"Dubai, UAE",Villa,3076620,Verified
+GLOB-106,"Dubai, UAE",Penthouse,2174735,Verified
+GLOB-107,"Dubai, UAE",Apartment,1239433,Trial Access
+GLOB-108,"Miami, USA",Apartment,751018,Trial Access
+GLOB-109,"Berlin, Germany",Villa,4274610,Premium Only
+GLOB-110,"New York, USA",Penthouse,2898795,Trial Access
+GLOB-111,"New York, USA",Commercial,1996055,Trial Access
+GLOB-112,"New York, USA",Villa,1854349,Trial Access
+GLOB-113,"Dubai, UAE",Penthouse,3764718,Trial Access
+GLOB-114,"London, UK",Villa,1965335,Trial Access
+GLOB-115,"New York, USA",Commercial,1277591,Premium Only
+GLOB-116,"Miami, USA",Penthouse,2533144,Trial Access
+GLOB-117,"New York, USA",Apartment,1712233,Premium Only
+GLOB-118,"Miami, USA",Penthouse,812447,Premium Only
+GLOB-119,"London, UK",Villa,2339524,Verified
+GLOB-120,"Dubai, UAE",Apartment,511054,Verified
+GLOB-121,"Dubai, UAE",Apartment,4116161,Trial Access
+GLOB-122,"Dubai, UAE",Apartment,3616354,Trial Access
+GLOB-123,"New York, USA",Apartment,1756903,Verified
+GLOB-124,"New York, USA",Villa,4385326,Verified
+GLOB-125,"Dubai, UAE",Commercial,911774,Verified
+GLOB-126,"Berlin, Germany",Apartment,3270866,Verified
+GLOB-127,"New York, USA",Villa,4196239,Verified
+GLOB-128,"Dubai, UAE",Commercial,994232,Verified
+GLOB-129,"London, UK",Penthouse,1012209,Verified
+GLOB-130,"London, UK",Penthouse,1133946,Premium Only
+GLOB-131,"New York, USA",Penthouse,3580923,Verified
+GLOB-132,"London, UK",Commercial,2716883,Trial Access
+GLOB-133,"Dubai, UAE",Penthouse,1185972,Verified
+GLOB-134,"Dubai, UAE",Commercial,651431,Trial Access
+GLOB-135,"New York, USA",Apartment,486346,Premium Only
+GLOB-136,"London, UK",Apartment,1969606,Verified
+GLOB-137,"New York, USA",Villa,261922,Premium Only
+GLOB-138,"London, UK",Penthouse,4002291,Premium Only
+GLOB-139,"Miami, USA",Commercial,275531,Trial Access
+GLOB-140,"Miami, USA",Penthouse,368467,Premium Only
+GLOB-141,"Berlin, Germany",Penthouse,1222073,Premium Only
+GLOB-142,"London, UK",Penthouse,1947639,Verified
+GLOB-143,"New York, USA",Commercial,1778976,Premium Only
+GLOB-144,"New York, USA",Villa,370364,Verified
+GLOB-145,"Dubai, UAE",Commercial,2537190,Verified
+GLOB-146,"Berlin, Germany",Villa,2309288,Trial Access
+GLOB-147,"Dubai, UAE",Commercial,3170797,Premium Only
+GLOB-148,"New York, USA",Villa,4762749,Verified
+GLOB-149,"Dubai, UAE",Villa,449815,Trial Access
+GLOB-150,"London, UK",Villa,2873531,Premium Only
