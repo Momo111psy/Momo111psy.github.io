@@ -2,25 +2,44 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Momo Data | Dubai Intel</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Momo Data | Dubai Real Estate Intelligence</title>
     <style>
-        body { background: #0a0a0c; color: #ecedee; font-family: sans-serif; padding: 40px; text-align: center; }
-        .card { background: #16161a; border: 1px solid #3b82f6; border-radius: 20px; padding: 20px; max-width: 500px; margin: auto; }
-        .terminal { background: #000; color: #00ff41; font-family: monospace; padding: 15px; border-radius: 10px; text-align: left; }
-        .btn { display: inline-block; background: #3b82f6; color: white; padding: 10px 20px; border-radius: 10px; text-decoration: none; margin-top: 20px; }
-        h2 { color: #3b82f6; }
+        :root { --blue: #3b82f6; --green: #25d366; --bg: #0a0a0c; --card: #16161a; }
+        body { background: var(--bg); color: #ecedee; font-family: sans-serif; margin: 0; padding: 20px; }
+        .container { max-width: 800px; margin: auto; }
+        .card { background: var(--card); border: 1px solid var(--blue); border-radius: 20px; padding: 30px; margin-top: 20px; }
+        .terminal { background: #000; color: #00ff41; font-family: monospace; padding: 15px; border-radius: 10px; text-align: left; margin: 20px 0; }
+        .btn { display: inline-block; padding: 12px 24px; border-radius: 10px; text-decoration: none; font-weight: bold; margin: 5px; }
+        .btn-blue { background: var(--blue); color: white; }
+        .btn-green { background: var(--green); color: white; }
+        .btn-outline { border: 1px solid #444; color: #888; }
+        .stats { font-size: 2.5rem; color: var(--blue); margin: 10px 0; }
+        .badge { background: #1e293b; color: var(--blue); padding: 5px 12px; border-radius: 20px; font-size: 0.8rem; }
     </style>
 </head>
 <body>
-    <h1>Rashhik Thapa</h1>
-    <div class="card">
-        <h2>Verified Leads: <span id="lead-count">7</span></h2>
-        <div class="terminal">
-            > status: online<br>
-            > source: Dubai DLD<br>
-            > engine: Ubuntu 24.04
+    <div class="container">
+        <span class="badge">E-TRADER STATUS: TRIAL</span>
+        <h1>Momo Data Intelligence</h1>
+        <p>OSINT-Verified Property Leads for Dubai AI Markets</p>
+
+        <div class="card">
+            <div class="stats"><span id="lead-count">7</span></div>
+            <p>Verified Property Leads Available</p>
+            
+            <div class="terminal">
+                > python3 dld_scraper.py --status=active<br>
+                > last_sync: 2026-01-20 16:07<br>
+                > region: Dubai, UAE
+            </div>
+
+            <a href="dubai_leads_sample.csv" class="btn btn-blue">Download Sample CSV</a>
+            <a href="https://wa.me/971501234567" class="btn btn-green">WhatsApp Me</a>
+            <a href="mailto:myrashikthapa80@gmail.com" class="btn btn-outline">Request Full Access</a>
         </div>
-        <a href="dubai_leads_sample.csv" class="btn">Download Trial Data (.CSV)</a>
+        
+        <p style="margin-top:40px; color:#555; font-size:0.8rem;">Powered by Ubuntu 24.04 LTS & GitHub Actions</p>
     </div>
 </body>
 </html>
