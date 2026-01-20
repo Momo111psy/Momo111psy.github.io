@@ -1,10 +1,26 @@
-echo "Property_ID,Area,Type,Price_AED,Status" > dubai_leads_sample.csv
-echo "DXB-001,Palm Jumeirah,Villa,15000000,Available" >> dubai_leads_sample.csv
-# Connect this clean folder to your online repo
-git remote add origin https://github.com/Momo111psy/Momo111psy.github.io.git
-
-# Add and Push only these two files
-git add index.html dubai_leads_sample.csv
-git commit -m "Clean start: Professional Dubai Data site"
-git push -u origin main --force
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Momo Data | Dubai Intel</title>
+    <style>
+        body { background: #0a0a0c; color: #ecedee; font-family: sans-serif; padding: 40px; text-align: center; }
+        .card { background: #16161a; border: 1px solid #3b82f6; border-radius: 20px; padding: 20px; max-width: 500px; margin: auto; }
+        .terminal { background: #000; color: #00ff41; font-family: monospace; padding: 15px; border-radius: 10px; text-align: left; }
+        .btn { display: inline-block; background: #3b82f6; color: white; padding: 10px 20px; border-radius: 10px; text-decoration: none; margin-top: 20px; }
+        h2 { color: #3b82f6; }
+    </style>
+</head>
+<body>
+    <h1>Rashhik Thapa</h1>
+    <div class="card">
+        <h2>Verified Leads: <span id="lead-count">1</span></h2>
+        <div class="terminal">
+            > status: online<br>
+            > source: Dubai DLD<br>
+            > engine: Ubuntu 24.04
+        </div>
+        <a href="dubai_leads_sample.csv" class="btn">Download Trial Data (.CSV)</a>
+    </div>
+</body>
+</html>
