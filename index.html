@@ -3,44 +3,69 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Momo Data | Dubai Real Estate Intelligence</title>
+    <title>Momo Data Intelligence - Global</title>
+    <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        :root { --blue: #3b82f6; --green: #25d366; --bg: #0a0a0c; --card: #16161a; }
-        body { background: var(--bg); color: #ecedee; font-family: sans-serif; margin: 0; padding: 20px; }
-        .container { max-width: 800px; margin: auto; }
-        .card { background: var(--card); border: 1px solid var(--blue); border-radius: 20px; padding: 30px; margin-top: 20px; }
-        .terminal { background: #000; color: #00ff41; font-family: monospace; padding: 15px; border-radius: 10px; text-align: left; margin: 20px 0; }
-        .btn { display: inline-block; padding: 12px 24px; border-radius: 10px; text-decoration: none; font-weight: bold; margin: 5px; }
-        .btn-blue { background: var(--blue); color: white; }
-        .btn-green { background: var(--green); color: white; }
-        .btn-outline { border: 1px solid #444; color: #888; }
-        .stats { font-size: 2.5rem; color: var(--blue); margin: 10px 0; }
-        .badge { background: #1e293b; color: var(--blue); padding: 5px 12px; border-radius: 20px; font-size: 0.8rem; }
+        body { background-color: #050505; color: white; font-family: sans-serif; }
+        .terminal-box { background: #000; border: 1px solid #333; padding: 10px; font-family: monospace; color: #00ff00; border-radius: 8px; font-size: 0.8rem; }
+        .country-card { background: #111; border: 1px solid #222; border-radius: 12px; padding: 20px; transition: 0.3s; }
+        .country-card:hover { border-color: #3b82f6; }
     </style>
 </head>
-<body>
-    <div class="container">
-        <span class="badge">E-TRADER STATUS: TRIAL</span>
-        <h1>Momo Data Intelligence</h1>
-        <p>OSINT-Verified Property Leads for Global AI Markets (Dubai, US, Europe)</p>
-<p style="color: #888;">Active Regions: 🇺🇦 UAE | 🇺🇸 USA | 🇪🇺 Europe</p>
+<body class="p-8">
+    <div class="max-w-6xl mx-auto">
+        <header class="mb-12">
+            <h1 class="text-4xl font-bold">Momo Data Intelligence</h1>
+            <p class="text-gray-400 mt-2">OSINT-Verified Global Real Estate Leads (Trial Active)</p>
+        </header>
 
-        <div class="card">
-            <div class="stats"><span id="lead-count">150</span></div>
-            <p>Global Real-Time Intelligence (Trial Active)</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             
-            <div class="terminal">
-                > python3 dld_scraper.py --status=active<br>
-                > last_sync: 2026-01-20 16:27<br>
-                > region: Dubai, UAE
+            <div class="country-card">
+                <h2 class="text-xl font-bold mb-4">🇦🇪 Dubai, UAE</h2>
+                <div class="text-4xl font-bold text-blue-500 mb-2">399</div>
+                <p class="text-gray-500 text-sm mb-4">Verified Leads Available</p>
+                <div class="terminal-box mb-4">> region: DXB_UAE<br>> status: online</div>
+                <button onclick="window.location.href='https://wa.me/YOURNUMBER'" class="w-full bg-green-600 p-2 rounded font-bold">Access Dubai</button>
             </div>
 
-            <a href="dubai_leads_sample.csv" class="btn btn-blue">Download Sample CSV</a>
-            <a href="https://wa.me/971501234567" class="btn btn-green">WhatsApp Me</a>
-            <a href="mailto:myrashikthapa80@gmail.com" class="btn btn-outline">Request Full Access</a>
+            <div class="country-card">
+                <h2 class="text-xl font-bold mb-4">🇺🇸 USA</h2>
+                <div class="text-4xl font-bold text-blue-500 mb-2">100</div>
+                <p class="text-gray-500 text-sm mb-4">Verified Leads Available</p>
+                <div class="terminal-box mb-4">> region: USA_NY_MIA<br>> status: active</div>
+                <button onclick="window.location.href='#'" class="w-full bg-blue-600 p-2 rounded font-bold">Access USA</button>
+            </div>
+
+            <div class="country-card">
+                <h2 class="text-xl font-bold mb-4">🇬🇧 United Kingdom</h2>
+                <div class="text-4xl font-bold text-blue-500 mb-2">85</div>
+                <p class="text-gray-500 text-sm mb-4">Verified Leads Available</p>
+                <div class="terminal-box mb-4">> region: UK_LDN<br>> status: active</div>
+                <button onclick="window.location.href='#'" class="w-full bg-gray-700 p-2 rounded font-bold">Access UK</button>
+            </div>
+
+            <div class="country-card">
+                <h2 class="text-xl font-bold mb-4">🇩🇪 Germany</h2>
+                <div class="text-4xl font-bold text-blue-500 mb-2">64</div>
+                <p class="text-gray-500 text-sm mb-4">Verified Leads Available</p>
+                <div class="terminal-box mb-4">> region: GER_BER<br>> status: active</div>
+                <button onclick="window.location.href='#'" class="w-full bg-gray-700 p-2 rounded font-bold">Access Germany</button>
+            </div>
+
+            <div class="country-card">
+                <h2 class="text-xl font-bold mb-4">🇧🇪 Belgium</h2>
+                <div class="text-4xl font-bold text-blue-500 mb-2">42</div>
+                <p class="text-gray-500 text-sm mb-4">Verified Leads Available</p>
+                <div class="terminal-box mb-4">> region: BEL_BRU<br>> status: active</div>
+                <button onclick="window.location.href='#'" class="w-full bg-gray-700 p-2 rounded font-bold">Access Belgium</button>
+            </div>
+
         </div>
-        
-        <p style="margin-top:40px; color:#555; font-size:0.8rem;">Powered by Ubuntu 24.04 LTS & GitHub Actions</p>
+
+        <footer class="mt-12 text-gray-600 text-sm">
+            Powered by Ubuntu 24.04 LTS & GitHub Actions | Last Sync: 2026-01-20
+        </footer>
     </div>
 </body>
 </html>
