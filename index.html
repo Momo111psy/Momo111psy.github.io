@@ -1,0 +1,10 @@
+echo "Property_ID,Area,Type,Price_AED,Status" > dubai_leads_sample.csv
+echo "DXB-001,Palm Jumeirah,Villa,15000000,Available" >> dubai_leads_sample.csv
+# Connect this clean folder to your online repo
+git remote add origin https://github.com/Momo111psy/Momo111psy.github.io.git
+
+# Add and Push only these two files
+git add index.html dubai_leads_sample.csv
+git commit -m "Clean start: Professional Dubai Data site"
+git push -u origin main --force
+
