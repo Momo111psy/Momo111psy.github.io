@@ -1,151 +1,151 @@
-Property_ID,Region,Type,Price_USD,Status
-GLOB-001,"New York, USA",Commercial,4394960,Premium Only
-GLOB-002,"New York, USA",Commercial,1341066,Verified
-GLOB-003,"New York, USA",Apartment,1140947,Verified
-GLOB-004,"New York, USA",Commercial,3524414,Trial Access
-GLOB-005,"Berlin, Germany",Villa,3019485,Premium Only
-GLOB-006,"Miami, USA",Commercial,3235927,Premium Only
-GLOB-007,"New York, USA",Commercial,4387433,Premium Only
-GLOB-008,"Dubai, UAE",Commercial,461175,Verified
-GLOB-009,"Dubai, UAE",Commercial,618193,Premium Only
-GLOB-010,"Miami, USA",Villa,1345608,Premium Only
-GLOB-011,"Berlin, Germany",Commercial,2330995,Trial Access
-GLOB-012,"New York, USA",Villa,1087426,Trial Access
-GLOB-013,"New York, USA",Apartment,2645178,Trial Access
-GLOB-014,"Dubai, UAE",Villa,1750051,Verified
-GLOB-015,"London, UK",Apartment,4219109,Trial Access
-GLOB-016,"Dubai, UAE",Penthouse,1683952,Premium Only
-GLOB-017,"London, UK",Penthouse,1398692,Trial Access
-GLOB-018,"Miami, USA",Villa,1801133,Verified
-GLOB-019,"London, UK",Villa,324471,Premium Only
-GLOB-020,"London, UK",Apartment,3141052,Trial Access
-GLOB-021,"Berlin, Germany",Penthouse,3751229,Trial Access
-GLOB-022,"Berlin, Germany",Villa,1547043,Verified
-GLOB-023,"Berlin, Germany",Penthouse,3377288,Verified
-GLOB-024,"Berlin, Germany",Villa,3974203,Trial Access
-GLOB-025,"London, UK",Penthouse,1830612,Trial Access
-GLOB-026,"Dubai, UAE",Penthouse,4658535,Verified
-GLOB-027,"New York, USA",Apartment,3335619,Premium Only
-GLOB-028,"London, UK",Villa,1747445,Verified
-GLOB-029,"London, UK",Commercial,749593,Verified
-GLOB-030,"Miami, USA",Penthouse,769991,Verified
-GLOB-031,"New York, USA",Commercial,3871332,Premium Only
-GLOB-032,"London, UK",Apartment,2045448,Premium Only
-GLOB-033,"Miami, USA",Apartment,4350362,Premium Only
-GLOB-034,"Berlin, Germany",Villa,3029592,Premium Only
-GLOB-035,"London, UK",Penthouse,3525500,Trial Access
-GLOB-036,"Miami, USA",Commercial,3056868,Trial Access
-GLOB-037,"London, UK",Apartment,2638730,Trial Access
-GLOB-038,"Miami, USA",Commercial,2387428,Verified
-GLOB-039,"Miami, USA",Penthouse,3854319,Premium Only
-GLOB-040,"New York, USA",Apartment,2421254,Premium Only
-GLOB-041,"Dubai, UAE",Penthouse,1377498,Trial Access
-GLOB-042,"Miami, USA",Commercial,1778664,Premium Only
-GLOB-043,"London, UK",Commercial,2355752,Trial Access
-GLOB-044,"New York, USA",Apartment,726820,Verified
-GLOB-045,"Dubai, UAE",Apartment,1956944,Premium Only
-GLOB-046,"Berlin, Germany",Commercial,1537481,Premium Only
-GLOB-047,"Miami, USA",Villa,4618028,Verified
-GLOB-048,"Miami, USA",Apartment,4846221,Trial Access
-GLOB-049,"London, UK",Villa,4740900,Premium Only
-GLOB-050,"New York, USA",Apartment,4648536,Verified
-GLOB-051,"New York, USA",Villa,378078,Premium Only
-GLOB-052,"Miami, USA",Apartment,4583351,Verified
-GLOB-053,"Dubai, UAE",Commercial,3640143,Premium Only
-GLOB-054,"New York, USA",Villa,1110829,Premium Only
-GLOB-055,"London, UK",Villa,1484624,Trial Access
-GLOB-056,"Berlin, Germany",Villa,2000339,Premium Only
-GLOB-057,"Miami, USA",Penthouse,4799975,Trial Access
-GLOB-058,"Dubai, UAE",Penthouse,469609,Verified
-GLOB-059,"Miami, USA",Commercial,3646210,Trial Access
-GLOB-060,"Miami, USA",Apartment,3751660,Premium Only
-GLOB-061,"London, UK",Villa,4449334,Verified
-GLOB-062,"Miami, USA",Commercial,3407889,Premium Only
-GLOB-063,"New York, USA",Villa,2708544,Verified
-GLOB-064,"Berlin, Germany",Penthouse,3155599,Premium Only
-GLOB-065,"London, UK",Penthouse,3702319,Trial Access
-GLOB-066,"Dubai, UAE",Apartment,4411747,Premium Only
-GLOB-067,"Berlin, Germany",Apartment,4126889,Premium Only
-GLOB-068,"London, UK",Villa,3767021,Trial Access
-GLOB-069,"New York, USA",Apartment,3475369,Verified
-GLOB-070,"Berlin, Germany",Apartment,4355192,Verified
-GLOB-071,"Dubai, UAE",Apartment,504878,Trial Access
-GLOB-072,"Berlin, Germany",Penthouse,893733,Verified
-GLOB-073,"Dubai, UAE",Villa,1645384,Trial Access
-GLOB-074,"London, UK",Apartment,591524,Trial Access
-GLOB-075,"Dubai, UAE",Commercial,4534587,Trial Access
-GLOB-076,"London, UK",Apartment,2342903,Trial Access
-GLOB-077,"New York, USA",Commercial,755143,Verified
-GLOB-078,"Berlin, Germany",Villa,1355317,Verified
-GLOB-079,"Berlin, Germany",Penthouse,1687360,Trial Access
-GLOB-080,"London, UK",Commercial,1402510,Trial Access
-GLOB-081,"Berlin, Germany",Penthouse,2593911,Trial Access
-GLOB-082,"Berlin, Germany",Penthouse,1354384,Verified
-GLOB-083,"London, UK",Commercial,3947346,Premium Only
-GLOB-084,"Dubai, UAE",Villa,1924902,Premium Only
-GLOB-085,"Dubai, UAE",Commercial,802870,Verified
-GLOB-086,"Dubai, UAE",Commercial,777387,Verified
-GLOB-087,"Miami, USA",Penthouse,2988016,Verified
-GLOB-088,"New York, USA",Commercial,2213366,Verified
-GLOB-089,"Berlin, Germany",Villa,3540613,Verified
-GLOB-090,"Dubai, UAE",Villa,827939,Trial Access
-GLOB-091,"Berlin, Germany",Penthouse,3478189,Verified
-GLOB-092,"Berlin, Germany",Apartment,1432007,Premium Only
-GLOB-093,"Miami, USA",Commercial,569189,Trial Access
-GLOB-094,"Dubai, UAE",Penthouse,1235942,Verified
-GLOB-095,"Dubai, UAE",Commercial,1186238,Verified
-GLOB-096,"Dubai, UAE",Penthouse,3061059,Premium Only
-GLOB-097,"London, UK",Penthouse,3254265,Premium Only
-GLOB-098,"New York, USA",Penthouse,2487884,Premium Only
-GLOB-099,"Dubai, UAE",Penthouse,312259,Premium Only
-GLOB-100,"Dubai, UAE",Villa,4307907,Trial Access
-GLOB-101,"Berlin, Germany",Commercial,4119511,Premium Only
-GLOB-102,"Berlin, Germany",Commercial,850515,Trial Access
-GLOB-103,"New York, USA",Villa,351869,Premium Only
-GLOB-104,"New York, USA",Villa,3358276,Verified
-GLOB-105,"Dubai, UAE",Villa,3076620,Verified
-GLOB-106,"Dubai, UAE",Penthouse,2174735,Verified
-GLOB-107,"Dubai, UAE",Apartment,1239433,Trial Access
-GLOB-108,"Miami, USA",Apartment,751018,Trial Access
-GLOB-109,"Berlin, Germany",Villa,4274610,Premium Only
-GLOB-110,"New York, USA",Penthouse,2898795,Trial Access
-GLOB-111,"New York, USA",Commercial,1996055,Trial Access
-GLOB-112,"New York, USA",Villa,1854349,Trial Access
-GLOB-113,"Dubai, UAE",Penthouse,3764718,Trial Access
-GLOB-114,"London, UK",Villa,1965335,Trial Access
-GLOB-115,"New York, USA",Commercial,1277591,Premium Only
-GLOB-116,"Miami, USA",Penthouse,2533144,Trial Access
-GLOB-117,"New York, USA",Apartment,1712233,Premium Only
-GLOB-118,"Miami, USA",Penthouse,812447,Premium Only
-GLOB-119,"London, UK",Villa,2339524,Verified
-GLOB-120,"Dubai, UAE",Apartment,511054,Verified
-GLOB-121,"Dubai, UAE",Apartment,4116161,Trial Access
-GLOB-122,"Dubai, UAE",Apartment,3616354,Trial Access
-GLOB-123,"New York, USA",Apartment,1756903,Verified
-GLOB-124,"New York, USA",Villa,4385326,Verified
-GLOB-125,"Dubai, UAE",Commercial,911774,Verified
-GLOB-126,"Berlin, Germany",Apartment,3270866,Verified
-GLOB-127,"New York, USA",Villa,4196239,Verified
-GLOB-128,"Dubai, UAE",Commercial,994232,Verified
-GLOB-129,"London, UK",Penthouse,1012209,Verified
-GLOB-130,"London, UK",Penthouse,1133946,Premium Only
-GLOB-131,"New York, USA",Penthouse,3580923,Verified
-GLOB-132,"London, UK",Commercial,2716883,Trial Access
-GLOB-133,"Dubai, UAE",Penthouse,1185972,Verified
-GLOB-134,"Dubai, UAE",Commercial,651431,Trial Access
-GLOB-135,"New York, USA",Apartment,486346,Premium Only
-GLOB-136,"London, UK",Apartment,1969606,Verified
-GLOB-137,"New York, USA",Villa,261922,Premium Only
-GLOB-138,"London, UK",Penthouse,4002291,Premium Only
-GLOB-139,"Miami, USA",Commercial,275531,Trial Access
-GLOB-140,"Miami, USA",Penthouse,368467,Premium Only
-GLOB-141,"Berlin, Germany",Penthouse,1222073,Premium Only
-GLOB-142,"London, UK",Penthouse,1947639,Verified
-GLOB-143,"New York, USA",Commercial,1778976,Premium Only
-GLOB-144,"New York, USA",Villa,370364,Verified
-GLOB-145,"Dubai, UAE",Commercial,2537190,Verified
-GLOB-146,"Berlin, Germany",Villa,2309288,Trial Access
-GLOB-147,"Dubai, UAE",Commercial,3170797,Premium Only
-GLOB-148,"New York, USA",Villa,4762749,Verified
-GLOB-149,"Dubai, UAE",Villa,449815,Trial Access
-GLOB-150,"London, UK",Villa,2873531,Premium Only
+Property_ID,Country,Area,Type,Status
+GLOB-001,Europe,"Berlin, DE",Apartment,Verified
+GLOB-002,Europe,"London, UK",Apartment,Verified
+GLOB-003,USA,New York City,Office,Verified
+GLOB-004,USA,Austin,Office,Verified
+GLOB-005,UAE,Palm Jumeirah,Office,Verified
+GLOB-006,Europe,"London, UK",Office,Verified
+GLOB-007,Europe,"London, UK",Office,Verified
+GLOB-008,Europe,"Berlin, DE",Penthouse,Verified
+GLOB-009,Europe,"Berlin, DE",Office,Verified
+GLOB-010,Europe,"Paris, FR",Apartment,Verified
+GLOB-011,Europe,"Paris, FR",Villa,Verified
+GLOB-012,Europe,"Berlin, DE",Penthouse,Verified
+GLOB-013,UAE,Downtown Dubai,Office,Verified
+GLOB-014,Europe,"Paris, FR",Penthouse,Verified
+GLOB-015,Europe,"Berlin, DE",Apartment,Verified
+GLOB-016,USA,Miami,Apartment,Verified
+GLOB-017,Europe,"Paris, FR",Office,Verified
+GLOB-018,Europe,"Berlin, DE",Apartment,Verified
+GLOB-019,Europe,"Berlin, DE",Penthouse,Verified
+GLOB-020,UAE,Downtown Dubai,Office,Verified
+GLOB-021,UAE,Dubai Marina,Office,Verified
+GLOB-022,USA,Miami,Penthouse,Verified
+GLOB-023,UAE,Dubai Marina,Villa,Verified
+GLOB-024,USA,Austin,Penthouse,Verified
+GLOB-025,USA,New York City,Villa,Verified
+GLOB-026,USA,Miami,Penthouse,Verified
+GLOB-027,UAE,Dubai Marina,Office,Verified
+GLOB-028,UAE,Dubai Marina,Office,Verified
+GLOB-029,USA,Miami,Villa,Verified
+GLOB-030,UAE,Palm Jumeirah,Apartment,Verified
+GLOB-031,USA,Miami,Penthouse,Verified
+GLOB-032,Europe,"London, UK",Villa,Verified
+GLOB-033,USA,Austin,Office,Verified
+GLOB-034,Europe,"Berlin, DE",Penthouse,Verified
+GLOB-035,USA,Austin,Office,Verified
+GLOB-036,Europe,"London, UK",Office,Verified
+GLOB-037,UAE,Downtown Dubai,Penthouse,Verified
+GLOB-038,UAE,Palm Jumeirah,Office,Verified
+GLOB-039,USA,Austin,Office,Verified
+GLOB-040,UAE,Downtown Dubai,Villa,Verified
+GLOB-041,UAE,Palm Jumeirah,Penthouse,Verified
+GLOB-042,USA,Austin,Penthouse,Verified
+GLOB-043,UAE,Downtown Dubai,Penthouse,Verified
+GLOB-044,UAE,Palm Jumeirah,Villa,Verified
+GLOB-045,Europe,"Berlin, DE",Villa,Verified
+GLOB-046,USA,Miami,Penthouse,Verified
+GLOB-047,UAE,Downtown Dubai,Penthouse,Verified
+GLOB-048,USA,Miami,Penthouse,Verified
+GLOB-049,USA,Austin,Apartment,Verified
+GLOB-050,UAE,Dubai Marina,Villa,Verified
+GLOB-051,USA,Miami,Penthouse,Verified
+GLOB-052,Europe,"Paris, FR",Office,Verified
+GLOB-053,USA,Miami,Villa,Verified
+GLOB-054,UAE,Downtown Dubai,Apartment,Verified
+GLOB-055,USA,New York City,Apartment,Verified
+GLOB-056,Europe,"London, UK",Villa,Verified
+GLOB-057,Europe,"Berlin, DE",Office,Verified
+GLOB-058,USA,New York City,Penthouse,Verified
+GLOB-059,UAE,Downtown Dubai,Apartment,Verified
+GLOB-060,USA,New York City,Apartment,Verified
+GLOB-061,Europe,"London, UK",Penthouse,Verified
+GLOB-062,USA,Austin,Apartment,Verified
+GLOB-063,UAE,Dubai Marina,Office,Verified
+GLOB-064,UAE,Palm Jumeirah,Villa,Verified
+GLOB-065,Europe,"Paris, FR",Villa,Verified
+GLOB-066,Europe,"Berlin, DE",Office,Verified
+GLOB-067,USA,Miami,Office,Verified
+GLOB-068,Europe,"Paris, FR",Office,Verified
+GLOB-069,Europe,"Berlin, DE",Office,Verified
+GLOB-070,USA,New York City,Villa,Verified
+GLOB-071,USA,New York City,Penthouse,Verified
+GLOB-072,Europe,"Paris, FR",Office,Verified
+GLOB-073,Europe,"Paris, FR",Office,Verified
+GLOB-074,Europe,"London, UK",Apartment,Verified
+GLOB-075,UAE,Palm Jumeirah,Villa,Verified
+GLOB-076,Europe,"Paris, FR",Office,Verified
+GLOB-077,UAE,Dubai Marina,Office,Verified
+GLOB-078,UAE,Downtown Dubai,Villa,Verified
+GLOB-079,UAE,Palm Jumeirah,Office,Verified
+GLOB-080,USA,New York City,Apartment,Verified
+GLOB-081,UAE,Palm Jumeirah,Office,Verified
+GLOB-082,UAE,Palm Jumeirah,Apartment,Verified
+GLOB-083,Europe,"London, UK",Apartment,Verified
+GLOB-084,USA,Austin,Office,Verified
+GLOB-085,Europe,"Paris, FR",Penthouse,Verified
+GLOB-086,UAE,Downtown Dubai,Apartment,Verified
+GLOB-087,USA,Miami,Penthouse,Verified
+GLOB-088,Europe,"Berlin, DE",Penthouse,Verified
+GLOB-089,UAE,Palm Jumeirah,Office,Verified
+GLOB-090,UAE,Palm Jumeirah,Apartment,Verified
+GLOB-091,UAE,Downtown Dubai,Office,Verified
+GLOB-092,UAE,Dubai Marina,Villa,Verified
+GLOB-093,Europe,"London, UK",Apartment,Verified
+GLOB-094,USA,Austin,Apartment,Verified
+GLOB-095,Europe,"London, UK",Penthouse,Verified
+GLOB-096,USA,Miami,Office,Verified
+GLOB-097,USA,New York City,Penthouse,Verified
+GLOB-098,Europe,"Berlin, DE",Penthouse,Verified
+GLOB-099,Europe,"Paris, FR",Apartment,Verified
+GLOB-100,USA,Austin,Office,Verified
+GLOB-101,USA,New York City,Office,Verified
+GLOB-102,UAE,Dubai Marina,Apartment,Verified
+GLOB-103,UAE,Dubai Marina,Villa,Verified
+GLOB-104,UAE,Dubai Marina,Apartment,Verified
+GLOB-105,USA,Austin,Office,Verified
+GLOB-106,UAE,Dubai Marina,Villa,Verified
+GLOB-107,USA,Miami,Villa,Verified
+GLOB-108,Europe,"London, UK",Penthouse,Verified
+GLOB-109,Europe,"London, UK",Office,Verified
+GLOB-110,UAE,Palm Jumeirah,Apartment,Verified
+GLOB-111,UAE,Dubai Marina,Penthouse,Verified
+GLOB-112,UAE,Dubai Marina,Villa,Verified
+GLOB-113,UAE,Palm Jumeirah,Villa,Verified
+GLOB-114,USA,Miami,Office,Verified
+GLOB-115,UAE,Dubai Marina,Apartment,Verified
+GLOB-116,USA,Austin,Apartment,Verified
+GLOB-117,UAE,Downtown Dubai,Office,Verified
+GLOB-118,Europe,"Berlin, DE",Apartment,Verified
+GLOB-119,USA,Miami,Office,Verified
+GLOB-120,UAE,Downtown Dubai,Penthouse,Verified
+GLOB-121,UAE,Dubai Marina,Apartment,Verified
+GLOB-122,USA,New York City,Apartment,Verified
+GLOB-123,USA,New York City,Office,Verified
+GLOB-124,Europe,"London, UK",Office,Verified
+GLOB-125,Europe,"London, UK",Office,Verified
+GLOB-126,Europe,"London, UK",Apartment,Verified
+GLOB-127,Europe,"Berlin, DE",Office,Verified
+GLOB-128,USA,New York City,Office,Verified
+GLOB-129,USA,New York City,Penthouse,Verified
+GLOB-130,Europe,"Paris, FR",Apartment,Verified
+GLOB-131,Europe,"Paris, FR",Villa,Verified
+GLOB-132,USA,Austin,Villa,Verified
+GLOB-133,UAE,Palm Jumeirah,Penthouse,Verified
+GLOB-134,UAE,Palm Jumeirah,Penthouse,Verified
+GLOB-135,USA,New York City,Apartment,Verified
+GLOB-136,USA,Austin,Villa,Verified
+GLOB-137,UAE,Palm Jumeirah,Penthouse,Verified
+GLOB-138,Europe,"London, UK",Villa,Verified
+GLOB-139,USA,Austin,Villa,Verified
+GLOB-140,Europe,"Paris, FR",Penthouse,Verified
+GLOB-141,Europe,"London, UK",Villa,Verified
+GLOB-142,USA,New York City,Office,Verified
+GLOB-143,UAE,Palm Jumeirah,Penthouse,Verified
+GLOB-144,USA,Miami,Apartment,Verified
+GLOB-145,USA,New York City,Office,Verified
+GLOB-146,Europe,"London, UK",Penthouse,Verified
+GLOB-147,USA,Miami,Apartment,Verified
+GLOB-148,USA,New York City,Villa,Verified
+GLOB-149,USA,Austin,Office,Verified
+GLOB-150,USA,Miami,Office,Verified
