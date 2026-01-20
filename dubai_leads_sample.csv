@@ -1,501 +1,501 @@
 ID,Region,Area,Type,Status
-GLO-001,USA,"Miami, FL",A-Grade Office,Verified
-GLO-002,Australia,Sydney,Industrial Log.,Verified
-GLO-003,UK,Canary Wharf,A-Grade Office,Verified
-GLO-004,UK,Canary Wharf,Luxury Residential,Verified
-GLO-005,USA,"Austin, TX",Luxury Residential,Verified
-GLO-006,USA,"Manhattan, NY",Luxury Residential,Verified
-GLO-007,USA,"Miami, FL",A-Grade Office,Verified
-GLO-008,UK,Manchester,A-Grade Office,Verified
-GLO-009,Germany,"Mitte, Berlin",Industrial Log.,Verified
-GLO-010,UAE,Palm Jumeirah,A-Grade Office,Verified
-GLO-011,USA,"Manhattan, NY",Luxury Residential,Verified
-GLO-012,UK,Mayfair,Luxury Residential,Verified
-GLO-013,UK,Manchester,A-Grade Office,Verified
-GLO-014,Germany,Munich,Industrial Log.,Verified
-GLO-015,UK,Canary Wharf,Luxury Residential,Verified
-GLO-016,Australia,Perth,Industrial Log.,Verified
-GLO-017,USA,"Miami, FL",Industrial Log.,Verified
-GLO-018,UAE,Palm Jumeirah,A-Grade Office,Verified
-GLO-019,UAE,Business Bay,A-Grade Office,Verified
-GLO-020,UK,Canary Wharf,Luxury Residential,Verified
-GLO-021,UAE,Dubai Hills,Luxury Residential,Verified
-GLO-022,USA,"Miami, FL",Industrial Log.,Verified
-GLO-023,Germany,Frankfurt,Luxury Residential,Verified
-GLO-024,Australia,Melbourne,A-Grade Office,Verified
-GLO-025,USA,"Austin, TX",A-Grade Office,Verified
-GLO-026,USA,"Manhattan, NY",Luxury Residential,Verified
-GLO-027,USA,"Austin, TX",Luxury Residential,Verified
-GLO-028,Germany,Frankfurt,A-Grade Office,Verified
-GLO-029,Australia,Sydney,A-Grade Office,Verified
-GLO-030,UAE,Palm Jumeirah,Industrial Log.,Verified
-GLO-031,USA,"Miami, FL",Luxury Residential,Verified
-GLO-032,USA,"Austin, TX",A-Grade Office,Verified
-GLO-033,Germany,"Mitte, Berlin",Luxury Residential,Verified
-GLO-034,USA,"Manhattan, NY",Industrial Log.,Verified
-GLO-035,USA,"Manhattan, NY",Industrial Log.,Verified
-GLO-036,UAE,Dubai Hills,Luxury Residential,Verified
-GLO-037,UK,Mayfair,Luxury Residential,Verified
-GLO-038,Germany,Frankfurt,A-Grade Office,Verified
-GLO-039,Germany,Frankfurt,Industrial Log.,Verified
-GLO-040,UK,Mayfair,A-Grade Office,Verified
-GLO-041,USA,"Manhattan, NY",Industrial Log.,Verified
-GLO-042,USA,"Manhattan, NY",Industrial Log.,Verified
-GLO-043,Australia,Sydney,Industrial Log.,Verified
-GLO-044,Germany,Munich,Industrial Log.,Verified
-GLO-045,UK,Canary Wharf,Industrial Log.,Verified
-GLO-046,UAE,Palm Jumeirah,A-Grade Office,Verified
-GLO-047,Australia,Sydney,Luxury Residential,Verified
-GLO-048,UAE,Business Bay,Luxury Residential,Verified
-GLO-049,USA,"Manhattan, NY",Luxury Residential,Verified
-GLO-050,UAE,Palm Jumeirah,A-Grade Office,Verified
-GLO-051,USA,"Austin, TX",Luxury Residential,Verified
-GLO-052,Germany,Munich,Industrial Log.,Verified
-GLO-053,Australia,Perth,Luxury Residential,Verified
-GLO-054,UK,Manchester,Luxury Residential,Verified
-GLO-055,Germany,Frankfurt,A-Grade Office,Verified
-GLO-056,Australia,Perth,Luxury Residential,Verified
-GLO-057,Australia,Sydney,Luxury Residential,Verified
-GLO-058,USA,"Miami, FL",Industrial Log.,Verified
-GLO-059,UK,Canary Wharf,Industrial Log.,Verified
-GLO-060,USA,"Manhattan, NY",Industrial Log.,Verified
-GLO-061,Australia,Sydney,Industrial Log.,Verified
-GLO-062,USA,"Austin, TX",Industrial Log.,Verified
-GLO-063,Germany,Munich,Luxury Residential,Verified
-GLO-064,UAE,Dubai Hills,Luxury Residential,Verified
-GLO-065,USA,"Miami, FL",Industrial Log.,Verified
-GLO-066,USA,"Miami, FL",A-Grade Office,Verified
-GLO-067,Australia,Perth,Industrial Log.,Verified
-GLO-068,Germany,"Mitte, Berlin",Luxury Residential,Verified
-GLO-069,UAE,Business Bay,Industrial Log.,Verified
-GLO-070,USA,"Manhattan, NY",Industrial Log.,Verified
-GLO-071,UK,Mayfair,A-Grade Office,Verified
-GLO-072,UAE,Business Bay,Luxury Residential,Verified
-GLO-073,USA,"Manhattan, NY",A-Grade Office,Verified
-GLO-074,Australia,Perth,A-Grade Office,Verified
-GLO-075,UK,Mayfair,Industrial Log.,Verified
-GLO-076,UAE,Dubai Hills,Industrial Log.,Verified
-GLO-077,Germany,"Mitte, Berlin",Industrial Log.,Verified
-GLO-078,Australia,Perth,A-Grade Office,Verified
-GLO-079,UAE,Palm Jumeirah,A-Grade Office,Verified
-GLO-080,UAE,Palm Jumeirah,A-Grade Office,Verified
-GLO-081,UK,Manchester,Luxury Residential,Verified
-GLO-082,USA,"Austin, TX",Industrial Log.,Verified
-GLO-083,Australia,Perth,A-Grade Office,Verified
-GLO-084,USA,"Manhattan, NY",Industrial Log.,Verified
-GLO-085,UK,Mayfair,Industrial Log.,Verified
-GLO-086,USA,"Miami, FL",Luxury Residential,Verified
-GLO-087,UAE,Palm Jumeirah,A-Grade Office,Verified
-GLO-088,UAE,Palm Jumeirah,Luxury Residential,Verified
-GLO-089,UAE,Palm Jumeirah,Industrial Log.,Verified
-GLO-090,UAE,Business Bay,Luxury Residential,Verified
-GLO-091,Germany,Frankfurt,Luxury Residential,Verified
-GLO-092,Australia,Sydney,Luxury Residential,Verified
-GLO-093,Australia,Sydney,Luxury Residential,Verified
-GLO-094,UAE,Dubai Hills,Industrial Log.,Verified
-GLO-095,USA,"Austin, TX",Luxury Residential,Verified
-GLO-096,UAE,Business Bay,Luxury Residential,Verified
-GLO-097,Australia,Sydney,Luxury Residential,Verified
-GLO-098,UK,Mayfair,Industrial Log.,Verified
-GLO-099,Germany,"Mitte, Berlin",A-Grade Office,Verified
-GLO-100,UK,Canary Wharf,Luxury Residential,Verified
-GLO-101,Australia,Melbourne,Luxury Residential,Verified
-GLO-102,UAE,Dubai Hills,Luxury Residential,Verified
-GLO-103,UAE,Palm Jumeirah,Industrial Log.,Verified
-GLO-104,UAE,Dubai Hills,Luxury Residential,Verified
-GLO-105,Australia,Melbourne,Industrial Log.,Verified
-GLO-106,USA,"Miami, FL",A-Grade Office,Verified
-GLO-107,UAE,Business Bay,Luxury Residential,Verified
-GLO-108,UK,Canary Wharf,A-Grade Office,Verified
-GLO-109,USA,"Miami, FL",Industrial Log.,Verified
-GLO-110,UAE,Business Bay,Luxury Residential,Verified
-GLO-111,UK,Manchester,Luxury Residential,Verified
-GLO-112,UAE,Dubai Hills,A-Grade Office,Verified
-GLO-113,UK,Canary Wharf,Industrial Log.,Verified
-GLO-114,USA,"Austin, TX",A-Grade Office,Verified
-GLO-115,UK,Mayfair,A-Grade Office,Verified
-GLO-116,USA,"Austin, TX",Industrial Log.,Verified
-GLO-117,USA,"Manhattan, NY",Luxury Residential,Verified
-GLO-118,Germany,Munich,A-Grade Office,Verified
-GLO-119,USA,"Miami, FL",Luxury Residential,Verified
-GLO-120,USA,"Manhattan, NY",Luxury Residential,Verified
-GLO-121,Germany,Munich,A-Grade Office,Verified
-GLO-122,USA,"Austin, TX",Industrial Log.,Verified
-GLO-123,USA,"Miami, FL",A-Grade Office,Verified
-GLO-124,Australia,Perth,A-Grade Office,Verified
-GLO-125,UAE,Dubai Hills,A-Grade Office,Verified
-GLO-126,Germany,"Mitte, Berlin",Luxury Residential,Verified
-GLO-127,UAE,Palm Jumeirah,A-Grade Office,Verified
-GLO-128,UK,Manchester,A-Grade Office,Verified
-GLO-129,UAE,Palm Jumeirah,Luxury Residential,Verified
-GLO-130,USA,"Manhattan, NY",Industrial Log.,Verified
-GLO-131,Germany,Munich,Industrial Log.,Verified
-GLO-132,Germany,Frankfurt,Industrial Log.,Verified
-GLO-133,Germany,Frankfurt,Industrial Log.,Verified
-GLO-134,Australia,Sydney,Luxury Residential,Verified
-GLO-135,Australia,Sydney,Luxury Residential,Verified
-GLO-136,Australia,Melbourne,A-Grade Office,Verified
-GLO-137,Germany,Frankfurt,A-Grade Office,Verified
-GLO-138,UAE,Palm Jumeirah,Luxury Residential,Verified
-GLO-139,Germany,"Mitte, Berlin",A-Grade Office,Verified
-GLO-140,USA,"Miami, FL",Industrial Log.,Verified
-GLO-141,Australia,Sydney,Luxury Residential,Verified
-GLO-142,Germany,"Mitte, Berlin",Luxury Residential,Verified
-GLO-143,Australia,Melbourne,Luxury Residential,Verified
-GLO-144,UK,Mayfair,Luxury Residential,Verified
-GLO-145,UK,Canary Wharf,Luxury Residential,Verified
-GLO-146,UK,Canary Wharf,Industrial Log.,Verified
-GLO-147,Australia,Melbourne,Industrial Log.,Verified
-GLO-148,USA,"Austin, TX",Industrial Log.,Verified
-GLO-149,USA,"Manhattan, NY",Industrial Log.,Verified
-GLO-150,Australia,Perth,Industrial Log.,Verified
-GLO-151,Australia,Perth,Industrial Log.,Verified
-GLO-152,Australia,Melbourne,Luxury Residential,Verified
-GLO-153,Australia,Perth,Industrial Log.,Verified
-GLO-154,USA,"Manhattan, NY",Industrial Log.,Verified
-GLO-155,Australia,Perth,A-Grade Office,Verified
-GLO-156,UAE,Dubai Hills,A-Grade Office,Verified
-GLO-157,UAE,Business Bay,Luxury Residential,Verified
-GLO-158,Germany,Frankfurt,A-Grade Office,Verified
-GLO-159,Germany,Munich,Industrial Log.,Verified
-GLO-160,UK,Canary Wharf,Industrial Log.,Verified
-GLO-161,Australia,Sydney,A-Grade Office,Verified
-GLO-162,UK,Mayfair,A-Grade Office,Verified
-GLO-163,Germany,Munich,Industrial Log.,Verified
-GLO-164,UK,Mayfair,Industrial Log.,Verified
-GLO-165,Australia,Melbourne,Industrial Log.,Verified
-GLO-166,Germany,"Mitte, Berlin",Luxury Residential,Verified
-GLO-167,USA,"Miami, FL",Industrial Log.,Verified
-GLO-168,USA,"Manhattan, NY",Industrial Log.,Verified
-GLO-169,Germany,Frankfurt,A-Grade Office,Verified
-GLO-170,Australia,Sydney,A-Grade Office,Verified
-GLO-171,UK,Mayfair,Luxury Residential,Verified
-GLO-172,UAE,Palm Jumeirah,Luxury Residential,Verified
-GLO-173,UAE,Palm Jumeirah,Industrial Log.,Verified
-GLO-174,Germany,Munich,Luxury Residential,Verified
-GLO-175,UK,Mayfair,Industrial Log.,Verified
-GLO-176,UK,Canary Wharf,Industrial Log.,Verified
-GLO-177,Germany,Munich,Industrial Log.,Verified
-GLO-178,UAE,Business Bay,A-Grade Office,Verified
-GLO-179,Germany,Frankfurt,Industrial Log.,Verified
-GLO-180,UAE,Palm Jumeirah,Luxury Residential,Verified
-GLO-181,Australia,Melbourne,Industrial Log.,Verified
-GLO-182,UAE,Dubai Hills,Industrial Log.,Verified
-GLO-183,UAE,Dubai Hills,Luxury Residential,Verified
-GLO-184,Australia,Melbourne,Industrial Log.,Verified
-GLO-185,USA,"Manhattan, NY",Luxury Residential,Verified
-GLO-186,USA,"Miami, FL",Luxury Residential,Verified
-GLO-187,Germany,Munich,Industrial Log.,Verified
-GLO-188,UAE,Palm Jumeirah,Industrial Log.,Verified
-GLO-189,UK,Canary Wharf,Industrial Log.,Verified
-GLO-190,UK,Canary Wharf,Luxury Residential,Verified
-GLO-191,Australia,Perth,A-Grade Office,Verified
-GLO-192,Australia,Perth,A-Grade Office,Verified
-GLO-193,USA,"Miami, FL",Luxury Residential,Verified
-GLO-194,Australia,Sydney,A-Grade Office,Verified
-GLO-195,UAE,Palm Jumeirah,Luxury Residential,Verified
-GLO-196,UK,Manchester,Luxury Residential,Verified
-GLO-197,Australia,Melbourne,Industrial Log.,Verified
-GLO-198,Germany,"Mitte, Berlin",A-Grade Office,Verified
-GLO-199,Australia,Sydney,Luxury Residential,Verified
-GLO-200,UK,Mayfair,Luxury Residential,Verified
-GLO-201,Germany,Frankfurt,A-Grade Office,Verified
-GLO-202,Australia,Melbourne,Luxury Residential,Verified
-GLO-203,UK,Canary Wharf,Luxury Residential,Verified
-GLO-204,Australia,Sydney,A-Grade Office,Verified
-GLO-205,UAE,Palm Jumeirah,Industrial Log.,Verified
-GLO-206,USA,"Miami, FL",A-Grade Office,Verified
-GLO-207,Australia,Sydney,Industrial Log.,Verified
-GLO-208,UAE,Business Bay,A-Grade Office,Verified
-GLO-209,UAE,Palm Jumeirah,Industrial Log.,Verified
-GLO-210,Australia,Melbourne,Industrial Log.,Verified
-GLO-211,Germany,Munich,A-Grade Office,Verified
-GLO-212,Australia,Melbourne,Industrial Log.,Verified
-GLO-213,UK,Manchester,Industrial Log.,Verified
-GLO-214,UAE,Business Bay,Luxury Residential,Verified
-GLO-215,USA,"Austin, TX",A-Grade Office,Verified
-GLO-216,Germany,"Mitte, Berlin",Luxury Residential,Verified
-GLO-217,UAE,Dubai Hills,Industrial Log.,Verified
-GLO-218,UAE,Business Bay,A-Grade Office,Verified
-GLO-219,USA,"Miami, FL",Industrial Log.,Verified
-GLO-220,Germany,"Mitte, Berlin",Luxury Residential,Verified
-GLO-221,Australia,Sydney,Industrial Log.,Verified
-GLO-222,UK,Manchester,Industrial Log.,Verified
-GLO-223,UAE,Palm Jumeirah,Industrial Log.,Verified
-GLO-224,UAE,Palm Jumeirah,Industrial Log.,Verified
-GLO-225,Australia,Perth,Industrial Log.,Verified
-GLO-226,Australia,Melbourne,Luxury Residential,Verified
-GLO-227,UAE,Palm Jumeirah,Luxury Residential,Verified
-GLO-228,UAE,Palm Jumeirah,Luxury Residential,Verified
-GLO-229,UK,Mayfair,Industrial Log.,Verified
-GLO-230,Australia,Sydney,A-Grade Office,Verified
-GLO-231,Germany,"Mitte, Berlin",Industrial Log.,Verified
-GLO-232,UK,Manchester,A-Grade Office,Verified
-GLO-233,UK,Mayfair,Luxury Residential,Verified
-GLO-234,Australia,Melbourne,A-Grade Office,Verified
-GLO-235,Australia,Perth,Industrial Log.,Verified
-GLO-236,USA,"Manhattan, NY",A-Grade Office,Verified
-GLO-237,Australia,Melbourne,Industrial Log.,Verified
-GLO-238,USA,"Austin, TX",Luxury Residential,Verified
-GLO-239,Germany,Frankfurt,Luxury Residential,Verified
-GLO-240,UK,Canary Wharf,A-Grade Office,Verified
-GLO-241,Australia,Perth,Industrial Log.,Verified
-GLO-242,Australia,Melbourne,Industrial Log.,Verified
-GLO-243,Germany,"Mitte, Berlin",Luxury Residential,Verified
-GLO-244,Australia,Melbourne,Industrial Log.,Verified
-GLO-245,USA,"Manhattan, NY",Luxury Residential,Verified
-GLO-246,Germany,Frankfurt,Industrial Log.,Verified
-GLO-247,UAE,Dubai Hills,Industrial Log.,Verified
-GLO-248,Germany,"Mitte, Berlin",Industrial Log.,Verified
-GLO-249,UAE,Palm Jumeirah,Industrial Log.,Verified
-GLO-250,Germany,Munich,Luxury Residential,Verified
-GLO-251,UK,Canary Wharf,Luxury Residential,Verified
-GLO-252,UK,Canary Wharf,Industrial Log.,Verified
-GLO-253,Australia,Melbourne,A-Grade Office,Verified
-GLO-254,UAE,Dubai Hills,A-Grade Office,Verified
-GLO-255,USA,"Miami, FL",A-Grade Office,Verified
-GLO-256,USA,"Manhattan, NY",Luxury Residential,Verified
-GLO-257,UAE,Dubai Hills,A-Grade Office,Verified
-GLO-258,UAE,Dubai Hills,Luxury Residential,Verified
-GLO-259,Germany,"Mitte, Berlin",Luxury Residential,Verified
-GLO-260,Germany,Munich,A-Grade Office,Verified
-GLO-261,USA,"Miami, FL",Industrial Log.,Verified
-GLO-262,Australia,Melbourne,Industrial Log.,Verified
-GLO-263,Australia,Perth,Industrial Log.,Verified
-GLO-264,UK,Mayfair,Luxury Residential,Verified
-GLO-265,UK,Mayfair,Industrial Log.,Verified
-GLO-266,USA,"Manhattan, NY",A-Grade Office,Verified
-GLO-267,Germany,Frankfurt,Industrial Log.,Verified
-GLO-268,Germany,Munich,A-Grade Office,Verified
-GLO-269,Australia,Perth,Industrial Log.,Verified
-GLO-270,Germany,Frankfurt,Luxury Residential,Verified
-GLO-271,Germany,Frankfurt,Luxury Residential,Verified
-GLO-272,Germany,Frankfurt,Luxury Residential,Verified
-GLO-273,UK,Mayfair,A-Grade Office,Verified
-GLO-274,UK,Manchester,Luxury Residential,Verified
-GLO-275,Germany,"Mitte, Berlin",Luxury Residential,Verified
-GLO-276,Australia,Perth,A-Grade Office,Verified
-GLO-277,UAE,Palm Jumeirah,Industrial Log.,Verified
-GLO-278,UK,Mayfair,A-Grade Office,Verified
-GLO-279,Australia,Perth,Luxury Residential,Verified
-GLO-280,Australia,Sydney,Industrial Log.,Verified
-GLO-281,USA,"Austin, TX",A-Grade Office,Verified
-GLO-282,Germany,"Mitte, Berlin",Luxury Residential,Verified
-GLO-283,Germany,Munich,Industrial Log.,Verified
-GLO-284,UK,Manchester,Industrial Log.,Verified
-GLO-285,UK,Manchester,Industrial Log.,Verified
-GLO-286,Germany,Frankfurt,Luxury Residential,Verified
-GLO-287,UAE,Business Bay,Industrial Log.,Verified
-GLO-288,UAE,Dubai Hills,Industrial Log.,Verified
-GLO-289,Australia,Sydney,Industrial Log.,Verified
-GLO-290,Germany,Frankfurt,Luxury Residential,Verified
-GLO-291,Germany,Munich,Luxury Residential,Verified
-GLO-292,USA,"Miami, FL",Industrial Log.,Verified
-GLO-293,USA,"Manhattan, NY",A-Grade Office,Verified
-GLO-294,Germany,Munich,Industrial Log.,Verified
-GLO-295,UAE,Business Bay,A-Grade Office,Verified
-GLO-296,USA,"Manhattan, NY",Industrial Log.,Verified
-GLO-297,USA,"Austin, TX",Luxury Residential,Verified
-GLO-298,USA,"Miami, FL",Luxury Residential,Verified
-GLO-299,UK,Manchester,Industrial Log.,Verified
-GLO-300,UAE,Dubai Hills,Luxury Residential,Verified
-GLO-301,UK,Canary Wharf,Industrial Log.,Verified
-GLO-302,Germany,"Mitte, Berlin",Industrial Log.,Verified
-GLO-303,Australia,Melbourne,A-Grade Office,Verified
-GLO-304,USA,"Manhattan, NY",A-Grade Office,Verified
-GLO-305,Australia,Sydney,Industrial Log.,Verified
-GLO-306,Germany,Frankfurt,A-Grade Office,Verified
-GLO-307,Germany,Munich,Industrial Log.,Verified
-GLO-308,Australia,Perth,Luxury Residential,Verified
-GLO-309,Germany,Munich,A-Grade Office,Verified
-GLO-310,USA,"Austin, TX",A-Grade Office,Verified
-GLO-311,Germany,"Mitte, Berlin",Luxury Residential,Verified
-GLO-312,USA,"Austin, TX",Industrial Log.,Verified
-GLO-313,Australia,Perth,Luxury Residential,Verified
-GLO-314,UK,Canary Wharf,A-Grade Office,Verified
-GLO-315,UAE,Business Bay,Luxury Residential,Verified
-GLO-316,Germany,Frankfurt,A-Grade Office,Verified
-GLO-317,Germany,"Mitte, Berlin",Industrial Log.,Verified
-GLO-318,USA,"Austin, TX",Luxury Residential,Verified
-GLO-319,Germany,Munich,Luxury Residential,Verified
-GLO-320,Germany,Munich,A-Grade Office,Verified
-GLO-321,UK,Canary Wharf,Industrial Log.,Verified
-GLO-322,UAE,Business Bay,Industrial Log.,Verified
-GLO-323,UK,Canary Wharf,Luxury Residential,Verified
-GLO-324,Germany,Munich,Industrial Log.,Verified
-GLO-325,Australia,Sydney,Industrial Log.,Verified
-GLO-326,Germany,Frankfurt,Industrial Log.,Verified
-GLO-327,Germany,Munich,Industrial Log.,Verified
-GLO-328,Germany,"Mitte, Berlin",Luxury Residential,Verified
-GLO-329,UAE,Dubai Hills,Industrial Log.,Verified
-GLO-330,Germany,Frankfurt,A-Grade Office,Verified
-GLO-331,UAE,Business Bay,Industrial Log.,Verified
-GLO-332,Australia,Perth,Industrial Log.,Verified
-GLO-333,UAE,Dubai Hills,Industrial Log.,Verified
-GLO-334,Germany,"Mitte, Berlin",Luxury Residential,Verified
-GLO-335,Germany,Frankfurt,Luxury Residential,Verified
-GLO-336,USA,"Miami, FL",Industrial Log.,Verified
-GLO-337,Australia,Sydney,Luxury Residential,Verified
-GLO-338,Germany,"Mitte, Berlin",Industrial Log.,Verified
-GLO-339,USA,"Austin, TX",Luxury Residential,Verified
-GLO-340,UAE,Palm Jumeirah,A-Grade Office,Verified
-GLO-341,UAE,Dubai Hills,Industrial Log.,Verified
-GLO-342,UK,Canary Wharf,Luxury Residential,Verified
-GLO-343,UK,Mayfair,A-Grade Office,Verified
-GLO-344,UAE,Palm Jumeirah,Luxury Residential,Verified
-GLO-345,UAE,Dubai Hills,Industrial Log.,Verified
-GLO-346,UK,Canary Wharf,Luxury Residential,Verified
-GLO-347,UK,Manchester,A-Grade Office,Verified
-GLO-348,UAE,Dubai Hills,A-Grade Office,Verified
-GLO-349,UAE,Dubai Hills,A-Grade Office,Verified
-GLO-350,USA,"Miami, FL",A-Grade Office,Verified
-GLO-351,USA,"Manhattan, NY",Luxury Residential,Verified
-GLO-352,USA,"Miami, FL",A-Grade Office,Verified
-GLO-353,UK,Manchester,A-Grade Office,Verified
-GLO-354,USA,"Manhattan, NY",A-Grade Office,Verified
-GLO-355,Australia,Perth,Industrial Log.,Verified
-GLO-356,USA,"Miami, FL",A-Grade Office,Verified
-GLO-357,UK,Manchester,Luxury Residential,Verified
-GLO-358,UAE,Business Bay,Luxury Residential,Verified
-GLO-359,USA,"Manhattan, NY",A-Grade Office,Verified
-GLO-360,UK,Canary Wharf,Luxury Residential,Verified
-GLO-361,Australia,Melbourne,Industrial Log.,Verified
-GLO-362,Germany,"Mitte, Berlin",Luxury Residential,Verified
-GLO-363,USA,"Miami, FL",Industrial Log.,Verified
-GLO-364,UK,Mayfair,Luxury Residential,Verified
-GLO-365,UK,Mayfair,A-Grade Office,Verified
-GLO-366,Germany,"Mitte, Berlin",A-Grade Office,Verified
-GLO-367,Australia,Sydney,A-Grade Office,Verified
-GLO-368,USA,"Miami, FL",A-Grade Office,Verified
-GLO-369,USA,"Austin, TX",Industrial Log.,Verified
-GLO-370,Germany,"Mitte, Berlin",Industrial Log.,Verified
-GLO-371,UK,Manchester,Industrial Log.,Verified
-GLO-372,UK,Canary Wharf,Luxury Residential,Verified
-GLO-373,Australia,Sydney,Luxury Residential,Verified
-GLO-374,UK,Canary Wharf,Luxury Residential,Verified
-GLO-375,UK,Mayfair,A-Grade Office,Verified
-GLO-376,Australia,Sydney,A-Grade Office,Verified
-GLO-377,UAE,Dubai Hills,A-Grade Office,Verified
-GLO-378,Australia,Melbourne,Industrial Log.,Verified
-GLO-379,UAE,Business Bay,A-Grade Office,Verified
-GLO-380,UK,Manchester,Industrial Log.,Verified
-GLO-381,Germany,Munich,A-Grade Office,Verified
-GLO-382,UAE,Dubai Hills,Luxury Residential,Verified
-GLO-383,USA,"Manhattan, NY",A-Grade Office,Verified
-GLO-384,Germany,Frankfurt,Luxury Residential,Verified
-GLO-385,Germany,"Mitte, Berlin",A-Grade Office,Verified
-GLO-386,Australia,Sydney,A-Grade Office,Verified
-GLO-387,USA,"Miami, FL",A-Grade Office,Verified
-GLO-388,USA,"Austin, TX",A-Grade Office,Verified
-GLO-389,UK,Canary Wharf,Industrial Log.,Verified
-GLO-390,UAE,Business Bay,Luxury Residential,Verified
-GLO-391,Germany,Munich,A-Grade Office,Verified
-GLO-392,UK,Manchester,A-Grade Office,Verified
-GLO-393,UK,Mayfair,Luxury Residential,Verified
-GLO-394,UAE,Palm Jumeirah,Luxury Residential,Verified
-GLO-395,Australia,Perth,Luxury Residential,Verified
-GLO-396,USA,"Manhattan, NY",Luxury Residential,Verified
-GLO-397,Australia,Melbourne,A-Grade Office,Verified
-GLO-398,Australia,Melbourne,A-Grade Office,Verified
-GLO-399,USA,"Miami, FL",Luxury Residential,Verified
-GLO-400,Australia,Sydney,Luxury Residential,Verified
-GLO-401,Australia,Sydney,Luxury Residential,Verified
-GLO-402,Germany,Frankfurt,A-Grade Office,Verified
-GLO-403,UAE,Dubai Hills,Industrial Log.,Verified
-GLO-404,Australia,Melbourne,Industrial Log.,Verified
-GLO-405,UK,Canary Wharf,Luxury Residential,Verified
-GLO-406,UK,Manchester,A-Grade Office,Verified
-GLO-407,USA,"Austin, TX",Luxury Residential,Verified
-GLO-408,USA,"Miami, FL",Industrial Log.,Verified
-GLO-409,UAE,Business Bay,Luxury Residential,Verified
-GLO-410,UK,Mayfair,Industrial Log.,Verified
-GLO-411,UK,Mayfair,Luxury Residential,Verified
-GLO-412,USA,"Miami, FL",Industrial Log.,Verified
-GLO-413,Germany,"Mitte, Berlin",Industrial Log.,Verified
-GLO-414,UAE,Dubai Hills,A-Grade Office,Verified
-GLO-415,UK,Manchester,A-Grade Office,Verified
-GLO-416,UAE,Dubai Hills,A-Grade Office,Verified
-GLO-417,Australia,Sydney,Industrial Log.,Verified
-GLO-418,UAE,Dubai Hills,Luxury Residential,Verified
-GLO-419,Australia,Perth,A-Grade Office,Verified
-GLO-420,UAE,Business Bay,A-Grade Office,Verified
-GLO-421,USA,"Austin, TX",Industrial Log.,Verified
-GLO-422,Australia,Melbourne,A-Grade Office,Verified
-GLO-423,Germany,Frankfurt,Luxury Residential,Verified
-GLO-424,Australia,Sydney,Luxury Residential,Verified
-GLO-425,Germany,Frankfurt,Luxury Residential,Verified
-GLO-426,Australia,Melbourne,Luxury Residential,Verified
-GLO-427,UAE,Business Bay,Industrial Log.,Verified
-GLO-428,Germany,Frankfurt,Industrial Log.,Verified
-GLO-429,UAE,Dubai Hills,A-Grade Office,Verified
-GLO-430,Australia,Sydney,Industrial Log.,Verified
-GLO-431,Germany,Munich,Industrial Log.,Verified
-GLO-432,UK,Manchester,Industrial Log.,Verified
-GLO-433,Australia,Melbourne,A-Grade Office,Verified
-GLO-434,UK,Mayfair,Luxury Residential,Verified
-GLO-435,UAE,Dubai Hills,A-Grade Office,Verified
-GLO-436,UK,Mayfair,A-Grade Office,Verified
-GLO-437,USA,"Miami, FL",Luxury Residential,Verified
-GLO-438,UAE,Dubai Hills,Industrial Log.,Verified
-GLO-439,Australia,Perth,A-Grade Office,Verified
-GLO-440,Germany,Munich,Luxury Residential,Verified
-GLO-441,Germany,Frankfurt,Industrial Log.,Verified
-GLO-442,Australia,Sydney,Luxury Residential,Verified
-GLO-443,UAE,Palm Jumeirah,Industrial Log.,Verified
-GLO-444,Australia,Perth,A-Grade Office,Verified
-GLO-445,USA,"Austin, TX",Luxury Residential,Verified
-GLO-446,UAE,Dubai Hills,Industrial Log.,Verified
-GLO-447,Germany,Frankfurt,Luxury Residential,Verified
-GLO-448,UAE,Business Bay,Luxury Residential,Verified
-GLO-449,USA,"Miami, FL",Luxury Residential,Verified
-GLO-450,UK,Manchester,Luxury Residential,Verified
-GLO-451,UK,Mayfair,Luxury Residential,Verified
-GLO-452,Germany,"Mitte, Berlin",Luxury Residential,Verified
-GLO-453,USA,"Miami, FL",A-Grade Office,Verified
-GLO-454,Australia,Sydney,A-Grade Office,Verified
-GLO-455,Australia,Perth,A-Grade Office,Verified
-GLO-456,Australia,Perth,Luxury Residential,Verified
-GLO-457,UAE,Dubai Hills,Luxury Residential,Verified
-GLO-458,Germany,"Mitte, Berlin",A-Grade Office,Verified
-GLO-459,UK,Canary Wharf,A-Grade Office,Verified
-GLO-460,Australia,Melbourne,Luxury Residential,Verified
-GLO-461,Germany,Frankfurt,Industrial Log.,Verified
-GLO-462,Australia,Melbourne,Industrial Log.,Verified
-GLO-463,UAE,Dubai Hills,Industrial Log.,Verified
-GLO-464,USA,"Austin, TX",Industrial Log.,Verified
-GLO-465,UAE,Business Bay,Industrial Log.,Verified
-GLO-466,UAE,Palm Jumeirah,Industrial Log.,Verified
-GLO-467,UK,Canary Wharf,Industrial Log.,Verified
-GLO-468,UK,Canary Wharf,Industrial Log.,Verified
-GLO-469,Australia,Perth,Industrial Log.,Verified
-GLO-470,USA,"Austin, TX",Luxury Residential,Verified
-GLO-471,Germany,Munich,Luxury Residential,Verified
-GLO-472,UAE,Dubai Hills,Industrial Log.,Verified
-GLO-473,Australia,Sydney,Industrial Log.,Verified
-GLO-474,UK,Manchester,A-Grade Office,Verified
-GLO-475,UAE,Dubai Hills,Luxury Residential,Verified
-GLO-476,USA,"Miami, FL",Luxury Residential,Verified
-GLO-477,Germany,"Mitte, Berlin",Industrial Log.,Verified
-GLO-478,USA,"Manhattan, NY",A-Grade Office,Verified
-GLO-479,Germany,"Mitte, Berlin",Luxury Residential,Verified
-GLO-480,USA,"Miami, FL",Luxury Residential,Verified
-GLO-481,UAE,Palm Jumeirah,Industrial Log.,Verified
-GLO-482,Australia,Sydney,Industrial Log.,Verified
-GLO-483,Australia,Sydney,Luxury Residential,Verified
-GLO-484,Australia,Perth,A-Grade Office,Verified
-GLO-485,USA,"Miami, FL",Luxury Residential,Verified
-GLO-486,Germany,"Mitte, Berlin",A-Grade Office,Verified
-GLO-487,UAE,Dubai Hills,Luxury Residential,Verified
-GLO-488,Germany,Frankfurt,Industrial Log.,Verified
-GLO-489,UAE,Palm Jumeirah,Industrial Log.,Verified
-GLO-490,USA,"Manhattan, NY",Industrial Log.,Verified
-GLO-491,Germany,"Mitte, Berlin",Industrial Log.,Verified
-GLO-492,UAE,Dubai Hills,A-Grade Office,Verified
-GLO-493,UK,Canary Wharf,Industrial Log.,Verified
-GLO-494,UAE,Business Bay,A-Grade Office,Verified
-GLO-495,UAE,Palm Jumeirah,A-Grade Office,Verified
-GLO-496,USA,"Miami, FL",Industrial Log.,Verified
-GLO-497,UAE,Business Bay,A-Grade Office,Verified
-GLO-498,USA,"Austin, TX",A-Grade Office,Verified
-GLO-499,Australia,Melbourne,A-Grade Office,Verified
-GLO-500,UAE,Palm Jumeirah,Industrial Log.,Verified
+MOMO-GER-001,GER,Frankfurt,Industrial Log.,Verified
+MOMO-UK-002,UK,Manchester,A-Grade Office,Verified
+MOMO-UAE-003,UAE,Dubai Hills,A-Grade Office,Verified
+MOMO-UAE-004,UAE,Business Bay,Luxury Residential,Verified
+MOMO-UAE-005,UAE,Dubai Hills,Industrial Log.,Verified
+MOMO-AUS-006,AUS,Perth,Industrial Log.,Verified
+MOMO-USA-007,USA,"Miami, FL",Industrial Log.,Verified
+MOMO-UAE-008,UAE,Palm Jumeirah,Luxury Residential,Verified
+MOMO-USA-009,USA,"Austin, TX",Industrial Log.,Verified
+MOMO-UAE-010,UAE,Business Bay,Industrial Log.,Verified
+MOMO-USA-011,USA,"Austin, TX",Industrial Log.,Verified
+MOMO-UK-012,UK,Canary Wharf,Industrial Log.,Verified
+MOMO-AUS-013,AUS,Melbourne,Luxury Residential,Verified
+MOMO-UAE-014,UAE,Business Bay,Luxury Residential,Verified
+MOMO-USA-015,USA,"Manhattan, NY",Industrial Log.,Verified
+MOMO-GER-016,GER,Munich,A-Grade Office,Verified
+MOMO-AUS-017,AUS,Sydney,A-Grade Office,Verified
+MOMO-UK-018,UK,Mayfair,A-Grade Office,Verified
+MOMO-GER-019,GER,"Mitte, Berlin",Luxury Residential,Verified
+MOMO-GER-020,GER,Munich,Industrial Log.,Verified
+MOMO-UAE-021,UAE,Business Bay,A-Grade Office,Verified
+MOMO-UK-022,UK,Canary Wharf,A-Grade Office,Verified
+MOMO-AUS-023,AUS,Melbourne,Luxury Residential,Verified
+MOMO-UAE-024,UAE,Dubai Hills,A-Grade Office,Verified
+MOMO-UAE-025,UAE,Palm Jumeirah,Luxury Residential,Verified
+MOMO-UAE-026,UAE,Dubai Hills,Luxury Residential,Verified
+MOMO-UK-027,UK,Manchester,Luxury Residential,Verified
+MOMO-USA-028,USA,"Austin, TX",A-Grade Office,Verified
+MOMO-AUS-029,AUS,Sydney,Luxury Residential,Verified
+MOMO-UAE-030,UAE,Business Bay,A-Grade Office,Verified
+MOMO-GER-031,GER,Munich,A-Grade Office,Verified
+MOMO-UK-032,UK,Mayfair,Luxury Residential,Verified
+MOMO-UK-033,UK,Canary Wharf,A-Grade Office,Verified
+MOMO-UK-034,UK,Manchester,A-Grade Office,Verified
+MOMO-UK-035,UK,Manchester,Luxury Residential,Verified
+MOMO-AUS-036,AUS,Melbourne,Luxury Residential,Verified
+MOMO-GER-037,GER,"Mitte, Berlin",Industrial Log.,Verified
+MOMO-UK-038,UK,Canary Wharf,Luxury Residential,Verified
+MOMO-AUS-039,AUS,Perth,Luxury Residential,Verified
+MOMO-USA-040,USA,"Austin, TX",A-Grade Office,Verified
+MOMO-UAE-041,UAE,Business Bay,Luxury Residential,Verified
+MOMO-UK-042,UK,Canary Wharf,Luxury Residential,Verified
+MOMO-GER-043,GER,Frankfurt,Luxury Residential,Verified
+MOMO-USA-044,USA,"Miami, FL",Industrial Log.,Verified
+MOMO-UK-045,UK,Canary Wharf,Industrial Log.,Verified
+MOMO-AUS-046,AUS,Perth,A-Grade Office,Verified
+MOMO-GER-047,GER,Frankfurt,Luxury Residential,Verified
+MOMO-UK-048,UK,Mayfair,Luxury Residential,Verified
+MOMO-UAE-049,UAE,Business Bay,Industrial Log.,Verified
+MOMO-USA-050,USA,"Manhattan, NY",Industrial Log.,Verified
+MOMO-USA-051,USA,"Austin, TX",Industrial Log.,Verified
+MOMO-AUS-052,AUS,Sydney,Industrial Log.,Verified
+MOMO-GER-053,GER,"Mitte, Berlin",Industrial Log.,Verified
+MOMO-AUS-054,AUS,Perth,Industrial Log.,Verified
+MOMO-AUS-055,AUS,Sydney,A-Grade Office,Verified
+MOMO-UAE-056,UAE,Business Bay,A-Grade Office,Verified
+MOMO-UAE-057,UAE,Dubai Hills,Luxury Residential,Verified
+MOMO-AUS-058,AUS,Perth,A-Grade Office,Verified
+MOMO-AUS-059,AUS,Perth,A-Grade Office,Verified
+MOMO-USA-060,USA,"Miami, FL",A-Grade Office,Verified
+MOMO-UK-061,UK,Manchester,Luxury Residential,Verified
+MOMO-UAE-062,UAE,Dubai Hills,Industrial Log.,Verified
+MOMO-USA-063,USA,"Austin, TX",Luxury Residential,Verified
+MOMO-UK-064,UK,Mayfair,Industrial Log.,Verified
+MOMO-AUS-065,AUS,Melbourne,Industrial Log.,Verified
+MOMO-AUS-066,AUS,Perth,Industrial Log.,Verified
+MOMO-UK-067,UK,Canary Wharf,A-Grade Office,Verified
+MOMO-UK-068,UK,Manchester,Luxury Residential,Verified
+MOMO-UK-069,UK,Canary Wharf,A-Grade Office,Verified
+MOMO-USA-070,USA,"Miami, FL",Luxury Residential,Verified
+MOMO-AUS-071,AUS,Melbourne,A-Grade Office,Verified
+MOMO-GER-072,GER,Frankfurt,Luxury Residential,Verified
+MOMO-USA-073,USA,"Manhattan, NY",Industrial Log.,Verified
+MOMO-USA-074,USA,"Austin, TX",A-Grade Office,Verified
+MOMO-UAE-075,UAE,Business Bay,A-Grade Office,Verified
+MOMO-USA-076,USA,"Austin, TX",A-Grade Office,Verified
+MOMO-USA-077,USA,"Austin, TX",A-Grade Office,Verified
+MOMO-UK-078,UK,Canary Wharf,Luxury Residential,Verified
+MOMO-AUS-079,AUS,Perth,A-Grade Office,Verified
+MOMO-USA-080,USA,"Miami, FL",Industrial Log.,Verified
+MOMO-USA-081,USA,"Austin, TX",Luxury Residential,Verified
+MOMO-USA-082,USA,"Austin, TX",A-Grade Office,Verified
+MOMO-GER-083,GER,Munich,Luxury Residential,Verified
+MOMO-AUS-084,AUS,Perth,Luxury Residential,Verified
+MOMO-UK-085,UK,Manchester,A-Grade Office,Verified
+MOMO-USA-086,USA,"Austin, TX",A-Grade Office,Verified
+MOMO-USA-087,USA,"Miami, FL",A-Grade Office,Verified
+MOMO-UK-088,UK,Mayfair,Industrial Log.,Verified
+MOMO-GER-089,GER,"Mitte, Berlin",Industrial Log.,Verified
+MOMO-UAE-090,UAE,Business Bay,Industrial Log.,Verified
+MOMO-GER-091,GER,Munich,Luxury Residential,Verified
+MOMO-USA-092,USA,"Miami, FL",A-Grade Office,Verified
+MOMO-UK-093,UK,Manchester,A-Grade Office,Verified
+MOMO-USA-094,USA,"Manhattan, NY",A-Grade Office,Verified
+MOMO-AUS-095,AUS,Melbourne,Industrial Log.,Verified
+MOMO-USA-096,USA,"Austin, TX",Industrial Log.,Verified
+MOMO-GER-097,GER,"Mitte, Berlin",A-Grade Office,Verified
+MOMO-UK-098,UK,Canary Wharf,A-Grade Office,Verified
+MOMO-UK-099,UK,Canary Wharf,A-Grade Office,Verified
+MOMO-USA-100,USA,"Manhattan, NY",Luxury Residential,Verified
+MOMO-UAE-101,UAE,Palm Jumeirah,Luxury Residential,Verified
+MOMO-GER-102,GER,"Mitte, Berlin",Industrial Log.,Verified
+MOMO-UAE-103,UAE,Business Bay,Luxury Residential,Verified
+MOMO-USA-104,USA,"Austin, TX",Industrial Log.,Verified
+MOMO-AUS-105,AUS,Perth,Luxury Residential,Verified
+MOMO-GER-106,GER,"Mitte, Berlin",Luxury Residential,Verified
+MOMO-UK-107,UK,Manchester,Luxury Residential,Verified
+MOMO-UK-108,UK,Manchester,A-Grade Office,Verified
+MOMO-AUS-109,AUS,Melbourne,A-Grade Office,Verified
+MOMO-UK-110,UK,Canary Wharf,Luxury Residential,Verified
+MOMO-UK-111,UK,Canary Wharf,A-Grade Office,Verified
+MOMO-GER-112,GER,"Mitte, Berlin",Luxury Residential,Verified
+MOMO-UAE-113,UAE,Business Bay,Luxury Residential,Verified
+MOMO-AUS-114,AUS,Sydney,Luxury Residential,Verified
+MOMO-AUS-115,AUS,Melbourne,Luxury Residential,Verified
+MOMO-GER-116,GER,Munich,A-Grade Office,Verified
+MOMO-GER-117,GER,Munich,A-Grade Office,Verified
+MOMO-AUS-118,AUS,Perth,Industrial Log.,Verified
+MOMO-USA-119,USA,"Miami, FL",Industrial Log.,Verified
+MOMO-GER-120,GER,Munich,Industrial Log.,Verified
+MOMO-UK-121,UK,Canary Wharf,Luxury Residential,Verified
+MOMO-GER-122,GER,Munich,Industrial Log.,Verified
+MOMO-USA-123,USA,"Manhattan, NY",Industrial Log.,Verified
+MOMO-USA-124,USA,"Miami, FL",Luxury Residential,Verified
+MOMO-UAE-125,UAE,Dubai Hills,A-Grade Office,Verified
+MOMO-GER-126,GER,"Mitte, Berlin",A-Grade Office,Verified
+MOMO-AUS-127,AUS,Melbourne,A-Grade Office,Verified
+MOMO-USA-128,USA,"Manhattan, NY",Industrial Log.,Verified
+MOMO-GER-129,GER,Frankfurt,A-Grade Office,Verified
+MOMO-USA-130,USA,"Manhattan, NY",A-Grade Office,Verified
+MOMO-UK-131,UK,Canary Wharf,A-Grade Office,Verified
+MOMO-GER-132,GER,Frankfurt,Industrial Log.,Verified
+MOMO-USA-133,USA,"Manhattan, NY",Luxury Residential,Verified
+MOMO-USA-134,USA,"Manhattan, NY",A-Grade Office,Verified
+MOMO-USA-135,USA,"Manhattan, NY",Industrial Log.,Verified
+MOMO-USA-136,USA,"Miami, FL",Luxury Residential,Verified
+MOMO-USA-137,USA,"Austin, TX",Luxury Residential,Verified
+MOMO-UAE-138,UAE,Business Bay,Luxury Residential,Verified
+MOMO-UAE-139,UAE,Palm Jumeirah,Luxury Residential,Verified
+MOMO-USA-140,USA,"Austin, TX",Industrial Log.,Verified
+MOMO-UAE-141,UAE,Business Bay,A-Grade Office,Verified
+MOMO-USA-142,USA,"Austin, TX",Industrial Log.,Verified
+MOMO-GER-143,GER,Munich,Luxury Residential,Verified
+MOMO-UAE-144,UAE,Dubai Hills,A-Grade Office,Verified
+MOMO-GER-145,GER,"Mitte, Berlin",A-Grade Office,Verified
+MOMO-AUS-146,AUS,Sydney,Luxury Residential,Verified
+MOMO-UK-147,UK,Canary Wharf,Industrial Log.,Verified
+MOMO-GER-148,GER,Frankfurt,Luxury Residential,Verified
+MOMO-UK-149,UK,Canary Wharf,A-Grade Office,Verified
+MOMO-UAE-150,UAE,Business Bay,A-Grade Office,Verified
+MOMO-AUS-151,AUS,Perth,Luxury Residential,Verified
+MOMO-USA-152,USA,"Austin, TX",Industrial Log.,Verified
+MOMO-UAE-153,UAE,Dubai Hills,Luxury Residential,Verified
+MOMO-AUS-154,AUS,Melbourne,Industrial Log.,Verified
+MOMO-AUS-155,AUS,Perth,Industrial Log.,Verified
+MOMO-UAE-156,UAE,Palm Jumeirah,Luxury Residential,Verified
+MOMO-USA-157,USA,"Manhattan, NY",A-Grade Office,Verified
+MOMO-UAE-158,UAE,Business Bay,Industrial Log.,Verified
+MOMO-UK-159,UK,Canary Wharf,Industrial Log.,Verified
+MOMO-AUS-160,AUS,Melbourne,Luxury Residential,Verified
+MOMO-GER-161,GER,Frankfurt,Industrial Log.,Verified
+MOMO-GER-162,GER,Frankfurt,Industrial Log.,Verified
+MOMO-USA-163,USA,"Manhattan, NY",Luxury Residential,Verified
+MOMO-GER-164,GER,Munich,Luxury Residential,Verified
+MOMO-USA-165,USA,"Manhattan, NY",Industrial Log.,Verified
+MOMO-UK-166,UK,Mayfair,Industrial Log.,Verified
+MOMO-GER-167,GER,Munich,Industrial Log.,Verified
+MOMO-GER-168,GER,"Mitte, Berlin",Luxury Residential,Verified
+MOMO-UAE-169,UAE,Business Bay,Industrial Log.,Verified
+MOMO-GER-170,GER,Munich,Industrial Log.,Verified
+MOMO-GER-171,GER,Frankfurt,Luxury Residential,Verified
+MOMO-UK-172,UK,Canary Wharf,A-Grade Office,Verified
+MOMO-USA-173,USA,"Manhattan, NY",Luxury Residential,Verified
+MOMO-AUS-174,AUS,Sydney,Industrial Log.,Verified
+MOMO-UK-175,UK,Manchester,Luxury Residential,Verified
+MOMO-UAE-176,UAE,Dubai Hills,Luxury Residential,Verified
+MOMO-UAE-177,UAE,Dubai Hills,A-Grade Office,Verified
+MOMO-USA-178,USA,"Miami, FL",A-Grade Office,Verified
+MOMO-UK-179,UK,Mayfair,Luxury Residential,Verified
+MOMO-UAE-180,UAE,Business Bay,A-Grade Office,Verified
+MOMO-UAE-181,UAE,Dubai Hills,A-Grade Office,Verified
+MOMO-USA-182,USA,"Miami, FL",Industrial Log.,Verified
+MOMO-USA-183,USA,"Manhattan, NY",Luxury Residential,Verified
+MOMO-AUS-184,AUS,Melbourne,Industrial Log.,Verified
+MOMO-GER-185,GER,Frankfurt,A-Grade Office,Verified
+MOMO-AUS-186,AUS,Perth,A-Grade Office,Verified
+MOMO-UK-187,UK,Manchester,A-Grade Office,Verified
+MOMO-UK-188,UK,Manchester,Industrial Log.,Verified
+MOMO-UAE-189,UAE,Business Bay,A-Grade Office,Verified
+MOMO-AUS-190,AUS,Sydney,A-Grade Office,Verified
+MOMO-GER-191,GER,Munich,Luxury Residential,Verified
+MOMO-UK-192,UK,Canary Wharf,Luxury Residential,Verified
+MOMO-AUS-193,AUS,Melbourne,A-Grade Office,Verified
+MOMO-AUS-194,AUS,Perth,Luxury Residential,Verified
+MOMO-USA-195,USA,"Miami, FL",Industrial Log.,Verified
+MOMO-UAE-196,UAE,Business Bay,Luxury Residential,Verified
+MOMO-UAE-197,UAE,Palm Jumeirah,Industrial Log.,Verified
+MOMO-GER-198,GER,Munich,Luxury Residential,Verified
+MOMO-AUS-199,AUS,Melbourne,Luxury Residential,Verified
+MOMO-USA-200,USA,"Austin, TX",Luxury Residential,Verified
+MOMO-USA-201,USA,"Austin, TX",Luxury Residential,Verified
+MOMO-UK-202,UK,Mayfair,Industrial Log.,Verified
+MOMO-UAE-203,UAE,Dubai Hills,Luxury Residential,Verified
+MOMO-UK-204,UK,Manchester,Luxury Residential,Verified
+MOMO-UAE-205,UAE,Business Bay,Luxury Residential,Verified
+MOMO-USA-206,USA,"Miami, FL",Industrial Log.,Verified
+MOMO-UAE-207,UAE,Dubai Hills,Industrial Log.,Verified
+MOMO-USA-208,USA,"Austin, TX",Industrial Log.,Verified
+MOMO-GER-209,GER,"Mitte, Berlin",Industrial Log.,Verified
+MOMO-AUS-210,AUS,Perth,A-Grade Office,Verified
+MOMO-UAE-211,UAE,Dubai Hills,Luxury Residential,Verified
+MOMO-USA-212,USA,"Manhattan, NY",Luxury Residential,Verified
+MOMO-UAE-213,UAE,Dubai Hills,Industrial Log.,Verified
+MOMO-UAE-214,UAE,Palm Jumeirah,Luxury Residential,Verified
+MOMO-AUS-215,AUS,Sydney,A-Grade Office,Verified
+MOMO-UAE-216,UAE,Dubai Hills,Industrial Log.,Verified
+MOMO-UAE-217,UAE,Business Bay,Industrial Log.,Verified
+MOMO-GER-218,GER,Munich,A-Grade Office,Verified
+MOMO-UK-219,UK,Canary Wharf,Luxury Residential,Verified
+MOMO-UAE-220,UAE,Dubai Hills,Luxury Residential,Verified
+MOMO-UK-221,UK,Mayfair,Luxury Residential,Verified
+MOMO-AUS-222,AUS,Perth,Industrial Log.,Verified
+MOMO-UAE-223,UAE,Business Bay,A-Grade Office,Verified
+MOMO-GER-224,GER,"Mitte, Berlin",A-Grade Office,Verified
+MOMO-UAE-225,UAE,Business Bay,Luxury Residential,Verified
+MOMO-GER-226,GER,Munich,Industrial Log.,Verified
+MOMO-GER-227,GER,"Mitte, Berlin",Industrial Log.,Verified
+MOMO-UAE-228,UAE,Dubai Hills,Industrial Log.,Verified
+MOMO-UAE-229,UAE,Palm Jumeirah,Industrial Log.,Verified
+MOMO-UAE-230,UAE,Dubai Hills,A-Grade Office,Verified
+MOMO-UAE-231,UAE,Palm Jumeirah,Industrial Log.,Verified
+MOMO-UK-232,UK,Mayfair,Industrial Log.,Verified
+MOMO-GER-233,GER,Munich,Industrial Log.,Verified
+MOMO-GER-234,GER,Frankfurt,Industrial Log.,Verified
+MOMO-GER-235,GER,Munich,A-Grade Office,Verified
+MOMO-GER-236,GER,Frankfurt,Luxury Residential,Verified
+MOMO-UK-237,UK,Mayfair,A-Grade Office,Verified
+MOMO-USA-238,USA,"Manhattan, NY",Luxury Residential,Verified
+MOMO-GER-239,GER,Munich,A-Grade Office,Verified
+MOMO-GER-240,GER,"Mitte, Berlin",Industrial Log.,Verified
+MOMO-USA-241,USA,"Manhattan, NY",Luxury Residential,Verified
+MOMO-GER-242,GER,Frankfurt,Industrial Log.,Verified
+MOMO-UK-243,UK,Manchester,Industrial Log.,Verified
+MOMO-USA-244,USA,"Austin, TX",Industrial Log.,Verified
+MOMO-USA-245,USA,"Miami, FL",Industrial Log.,Verified
+MOMO-UK-246,UK,Manchester,A-Grade Office,Verified
+MOMO-GER-247,GER,Munich,Luxury Residential,Verified
+MOMO-USA-248,USA,"Manhattan, NY",A-Grade Office,Verified
+MOMO-USA-249,USA,"Miami, FL",Luxury Residential,Verified
+MOMO-UK-250,UK,Manchester,Industrial Log.,Verified
+MOMO-GER-251,GER,Munich,Luxury Residential,Verified
+MOMO-USA-252,USA,"Miami, FL",Industrial Log.,Verified
+MOMO-UK-253,UK,Canary Wharf,Industrial Log.,Verified
+MOMO-GER-254,GER,Munich,A-Grade Office,Verified
+MOMO-UK-255,UK,Manchester,Industrial Log.,Verified
+MOMO-UK-256,UK,Canary Wharf,Industrial Log.,Verified
+MOMO-USA-257,USA,"Austin, TX",Luxury Residential,Verified
+MOMO-UK-258,UK,Mayfair,Luxury Residential,Verified
+MOMO-AUS-259,AUS,Melbourne,Industrial Log.,Verified
+MOMO-GER-260,GER,Munich,A-Grade Office,Verified
+MOMO-UAE-261,UAE,Dubai Hills,Industrial Log.,Verified
+MOMO-GER-262,GER,"Mitte, Berlin",Industrial Log.,Verified
+MOMO-AUS-263,AUS,Sydney,Industrial Log.,Verified
+MOMO-UK-264,UK,Canary Wharf,Luxury Residential,Verified
+MOMO-GER-265,GER,"Mitte, Berlin",A-Grade Office,Verified
+MOMO-USA-266,USA,"Austin, TX",Luxury Residential,Verified
+MOMO-UAE-267,UAE,Dubai Hills,Luxury Residential,Verified
+MOMO-USA-268,USA,"Manhattan, NY",Luxury Residential,Verified
+MOMO-UAE-269,UAE,Palm Jumeirah,Industrial Log.,Verified
+MOMO-AUS-270,AUS,Melbourne,A-Grade Office,Verified
+MOMO-UAE-271,UAE,Palm Jumeirah,Luxury Residential,Verified
+MOMO-UAE-272,UAE,Palm Jumeirah,Industrial Log.,Verified
+MOMO-AUS-273,AUS,Perth,Industrial Log.,Verified
+MOMO-AUS-274,AUS,Melbourne,A-Grade Office,Verified
+MOMO-UAE-275,UAE,Palm Jumeirah,A-Grade Office,Verified
+MOMO-GER-276,GER,Munich,Luxury Residential,Verified
+MOMO-USA-277,USA,"Austin, TX",Industrial Log.,Verified
+MOMO-GER-278,GER,Munich,A-Grade Office,Verified
+MOMO-USA-279,USA,"Manhattan, NY",Industrial Log.,Verified
+MOMO-UAE-280,UAE,Palm Jumeirah,A-Grade Office,Verified
+MOMO-GER-281,GER,Munich,A-Grade Office,Verified
+MOMO-AUS-282,AUS,Sydney,Luxury Residential,Verified
+MOMO-GER-283,GER,"Mitte, Berlin",Industrial Log.,Verified
+MOMO-AUS-284,AUS,Perth,Luxury Residential,Verified
+MOMO-UAE-285,UAE,Dubai Hills,Luxury Residential,Verified
+MOMO-UK-286,UK,Manchester,A-Grade Office,Verified
+MOMO-USA-287,USA,"Miami, FL",Luxury Residential,Verified
+MOMO-USA-288,USA,"Manhattan, NY",Industrial Log.,Verified
+MOMO-UAE-289,UAE,Dubai Hills,Industrial Log.,Verified
+MOMO-GER-290,GER,Frankfurt,Industrial Log.,Verified
+MOMO-AUS-291,AUS,Melbourne,Industrial Log.,Verified
+MOMO-UAE-292,UAE,Dubai Hills,A-Grade Office,Verified
+MOMO-UAE-293,UAE,Business Bay,A-Grade Office,Verified
+MOMO-UAE-294,UAE,Business Bay,Industrial Log.,Verified
+MOMO-USA-295,USA,"Miami, FL",Luxury Residential,Verified
+MOMO-UK-296,UK,Manchester,A-Grade Office,Verified
+MOMO-UAE-297,UAE,Palm Jumeirah,Industrial Log.,Verified
+MOMO-AUS-298,AUS,Perth,A-Grade Office,Verified
+MOMO-UAE-299,UAE,Business Bay,A-Grade Office,Verified
+MOMO-USA-300,USA,"Miami, FL",A-Grade Office,Verified
+MOMO-UAE-301,UAE,Dubai Hills,Industrial Log.,Verified
+MOMO-GER-302,GER,"Mitte, Berlin",Industrial Log.,Verified
+MOMO-GER-303,GER,Frankfurt,Industrial Log.,Verified
+MOMO-UAE-304,UAE,Dubai Hills,Industrial Log.,Verified
+MOMO-GER-305,GER,Frankfurt,Luxury Residential,Verified
+MOMO-UK-306,UK,Manchester,Luxury Residential,Verified
+MOMO-USA-307,USA,"Miami, FL",A-Grade Office,Verified
+MOMO-UAE-308,UAE,Dubai Hills,A-Grade Office,Verified
+MOMO-AUS-309,AUS,Melbourne,Industrial Log.,Verified
+MOMO-AUS-310,AUS,Melbourne,Luxury Residential,Verified
+MOMO-USA-311,USA,"Miami, FL",A-Grade Office,Verified
+MOMO-UK-312,UK,Manchester,Industrial Log.,Verified
+MOMO-AUS-313,AUS,Sydney,Luxury Residential,Verified
+MOMO-GER-314,GER,Frankfurt,Luxury Residential,Verified
+MOMO-UK-315,UK,Canary Wharf,Luxury Residential,Verified
+MOMO-UK-316,UK,Mayfair,Industrial Log.,Verified
+MOMO-UAE-317,UAE,Dubai Hills,Luxury Residential,Verified
+MOMO-UK-318,UK,Manchester,Industrial Log.,Verified
+MOMO-USA-319,USA,"Manhattan, NY",Luxury Residential,Verified
+MOMO-GER-320,GER,Frankfurt,A-Grade Office,Verified
+MOMO-UAE-321,UAE,Business Bay,Industrial Log.,Verified
+MOMO-UK-322,UK,Mayfair,Luxury Residential,Verified
+MOMO-UK-323,UK,Manchester,A-Grade Office,Verified
+MOMO-UK-324,UK,Manchester,Industrial Log.,Verified
+MOMO-USA-325,USA,"Manhattan, NY",Luxury Residential,Verified
+MOMO-GER-326,GER,Munich,A-Grade Office,Verified
+MOMO-USA-327,USA,"Austin, TX",Industrial Log.,Verified
+MOMO-UAE-328,UAE,Palm Jumeirah,Luxury Residential,Verified
+MOMO-UAE-329,UAE,Dubai Hills,A-Grade Office,Verified
+MOMO-GER-330,GER,Frankfurt,Industrial Log.,Verified
+MOMO-USA-331,USA,"Austin, TX",A-Grade Office,Verified
+MOMO-UK-332,UK,Manchester,Industrial Log.,Verified
+MOMO-USA-333,USA,"Miami, FL",Luxury Residential,Verified
+MOMO-GER-334,GER,Frankfurt,A-Grade Office,Verified
+MOMO-GER-335,GER,"Mitte, Berlin",Luxury Residential,Verified
+MOMO-UK-336,UK,Canary Wharf,Luxury Residential,Verified
+MOMO-USA-337,USA,"Austin, TX",Luxury Residential,Verified
+MOMO-USA-338,USA,"Austin, TX",Industrial Log.,Verified
+MOMO-USA-339,USA,"Miami, FL",Luxury Residential,Verified
+MOMO-UK-340,UK,Canary Wharf,Industrial Log.,Verified
+MOMO-USA-341,USA,"Austin, TX",A-Grade Office,Verified
+MOMO-UK-342,UK,Manchester,A-Grade Office,Verified
+MOMO-GER-343,GER,"Mitte, Berlin",Industrial Log.,Verified
+MOMO-GER-344,GER,Frankfurt,Industrial Log.,Verified
+MOMO-UAE-345,UAE,Palm Jumeirah,Industrial Log.,Verified
+MOMO-USA-346,USA,"Austin, TX",Luxury Residential,Verified
+MOMO-UAE-347,UAE,Business Bay,A-Grade Office,Verified
+MOMO-GER-348,GER,Munich,Industrial Log.,Verified
+MOMO-UK-349,UK,Canary Wharf,Industrial Log.,Verified
+MOMO-USA-350,USA,"Miami, FL",Luxury Residential,Verified
+MOMO-GER-351,GER,Munich,Luxury Residential,Verified
+MOMO-USA-352,USA,"Miami, FL",A-Grade Office,Verified
+MOMO-GER-353,GER,Frankfurt,Industrial Log.,Verified
+MOMO-UAE-354,UAE,Dubai Hills,A-Grade Office,Verified
+MOMO-USA-355,USA,"Miami, FL",Luxury Residential,Verified
+MOMO-AUS-356,AUS,Melbourne,A-Grade Office,Verified
+MOMO-GER-357,GER,Frankfurt,A-Grade Office,Verified
+MOMO-AUS-358,AUS,Perth,Luxury Residential,Verified
+MOMO-UAE-359,UAE,Business Bay,Luxury Residential,Verified
+MOMO-AUS-360,AUS,Sydney,Luxury Residential,Verified
+MOMO-USA-361,USA,"Manhattan, NY",A-Grade Office,Verified
+MOMO-USA-362,USA,"Manhattan, NY",Industrial Log.,Verified
+MOMO-UK-363,UK,Mayfair,Luxury Residential,Verified
+MOMO-GER-364,GER,Frankfurt,Luxury Residential,Verified
+MOMO-UAE-365,UAE,Dubai Hills,Luxury Residential,Verified
+MOMO-UK-366,UK,Canary Wharf,Luxury Residential,Verified
+MOMO-UAE-367,UAE,Business Bay,A-Grade Office,Verified
+MOMO-AUS-368,AUS,Melbourne,Industrial Log.,Verified
+MOMO-AUS-369,AUS,Perth,Luxury Residential,Verified
+MOMO-AUS-370,AUS,Melbourne,A-Grade Office,Verified
+MOMO-UK-371,UK,Canary Wharf,Luxury Residential,Verified
+MOMO-UAE-372,UAE,Business Bay,Luxury Residential,Verified
+MOMO-UK-373,UK,Manchester,A-Grade Office,Verified
+MOMO-AUS-374,AUS,Sydney,Industrial Log.,Verified
+MOMO-USA-375,USA,"Miami, FL",Luxury Residential,Verified
+MOMO-AUS-376,AUS,Perth,Luxury Residential,Verified
+MOMO-UK-377,UK,Manchester,Luxury Residential,Verified
+MOMO-UAE-378,UAE,Business Bay,Luxury Residential,Verified
+MOMO-AUS-379,AUS,Sydney,A-Grade Office,Verified
+MOMO-AUS-380,AUS,Sydney,A-Grade Office,Verified
+MOMO-USA-381,USA,"Miami, FL",Luxury Residential,Verified
+MOMO-AUS-382,AUS,Sydney,A-Grade Office,Verified
+MOMO-AUS-383,AUS,Melbourne,Luxury Residential,Verified
+MOMO-GER-384,GER,"Mitte, Berlin",Luxury Residential,Verified
+MOMO-AUS-385,AUS,Melbourne,Luxury Residential,Verified
+MOMO-USA-386,USA,"Manhattan, NY",A-Grade Office,Verified
+MOMO-USA-387,USA,"Miami, FL",Industrial Log.,Verified
+MOMO-AUS-388,AUS,Sydney,Luxury Residential,Verified
+MOMO-AUS-389,AUS,Perth,Industrial Log.,Verified
+MOMO-USA-390,USA,"Miami, FL",A-Grade Office,Verified
+MOMO-USA-391,USA,"Miami, FL",A-Grade Office,Verified
+MOMO-UK-392,UK,Canary Wharf,A-Grade Office,Verified
+MOMO-AUS-393,AUS,Sydney,Luxury Residential,Verified
+MOMO-UK-394,UK,Canary Wharf,Industrial Log.,Verified
+MOMO-GER-395,GER,Munich,A-Grade Office,Verified
+MOMO-GER-396,GER,Munich,Industrial Log.,Verified
+MOMO-UK-397,UK,Manchester,A-Grade Office,Verified
+MOMO-AUS-398,AUS,Sydney,Luxury Residential,Verified
+MOMO-UK-399,UK,Mayfair,Industrial Log.,Verified
+MOMO-GER-400,GER,Munich,Luxury Residential,Verified
+MOMO-USA-401,USA,"Manhattan, NY",Industrial Log.,Verified
+MOMO-UAE-402,UAE,Palm Jumeirah,A-Grade Office,Verified
+MOMO-UAE-403,UAE,Business Bay,A-Grade Office,Verified
+MOMO-GER-404,GER,Frankfurt,A-Grade Office,Verified
+MOMO-UAE-405,UAE,Business Bay,A-Grade Office,Verified
+MOMO-UK-406,UK,Manchester,Industrial Log.,Verified
+MOMO-UK-407,UK,Manchester,Industrial Log.,Verified
+MOMO-UK-408,UK,Canary Wharf,Industrial Log.,Verified
+MOMO-UAE-409,UAE,Dubai Hills,Industrial Log.,Verified
+MOMO-AUS-410,AUS,Melbourne,Luxury Residential,Verified
+MOMO-UK-411,UK,Mayfair,Luxury Residential,Verified
+MOMO-USA-412,USA,"Manhattan, NY",A-Grade Office,Verified
+MOMO-UAE-413,UAE,Business Bay,Luxury Residential,Verified
+MOMO-UAE-414,UAE,Palm Jumeirah,Industrial Log.,Verified
+MOMO-AUS-415,AUS,Perth,A-Grade Office,Verified
+MOMO-GER-416,GER,"Mitte, Berlin",A-Grade Office,Verified
+MOMO-GER-417,GER,Munich,Luxury Residential,Verified
+MOMO-GER-418,GER,Munich,Industrial Log.,Verified
+MOMO-GER-419,GER,"Mitte, Berlin",A-Grade Office,Verified
+MOMO-UK-420,UK,Canary Wharf,Industrial Log.,Verified
+MOMO-UAE-421,UAE,Palm Jumeirah,Industrial Log.,Verified
+MOMO-UK-422,UK,Canary Wharf,Industrial Log.,Verified
+MOMO-USA-423,USA,"Austin, TX",Industrial Log.,Verified
+MOMO-AUS-424,AUS,Perth,A-Grade Office,Verified
+MOMO-GER-425,GER,"Mitte, Berlin",Industrial Log.,Verified
+MOMO-UK-426,UK,Manchester,A-Grade Office,Verified
+MOMO-UAE-427,UAE,Business Bay,Luxury Residential,Verified
+MOMO-USA-428,USA,"Austin, TX",A-Grade Office,Verified
+MOMO-UAE-429,UAE,Dubai Hills,A-Grade Office,Verified
+MOMO-GER-430,GER,Munich,Industrial Log.,Verified
+MOMO-UK-431,UK,Manchester,Industrial Log.,Verified
+MOMO-AUS-432,AUS,Sydney,Luxury Residential,Verified
+MOMO-UAE-433,UAE,Business Bay,Luxury Residential,Verified
+MOMO-UK-434,UK,Manchester,A-Grade Office,Verified
+MOMO-UK-435,UK,Canary Wharf,Luxury Residential,Verified
+MOMO-AUS-436,AUS,Sydney,Luxury Residential,Verified
+MOMO-GER-437,GER,Munich,Luxury Residential,Verified
+MOMO-UK-438,UK,Manchester,Luxury Residential,Verified
+MOMO-USA-439,USA,"Austin, TX",A-Grade Office,Verified
+MOMO-AUS-440,AUS,Melbourne,A-Grade Office,Verified
+MOMO-AUS-441,AUS,Perth,Luxury Residential,Verified
+MOMO-USA-442,USA,"Austin, TX",A-Grade Office,Verified
+MOMO-UK-443,UK,Manchester,A-Grade Office,Verified
+MOMO-UK-444,UK,Mayfair,A-Grade Office,Verified
+MOMO-AUS-445,AUS,Perth,A-Grade Office,Verified
+MOMO-AUS-446,AUS,Melbourne,Luxury Residential,Verified
+MOMO-UAE-447,UAE,Business Bay,Luxury Residential,Verified
+MOMO-AUS-448,AUS,Perth,Industrial Log.,Verified
+MOMO-UAE-449,UAE,Dubai Hills,Luxury Residential,Verified
+MOMO-USA-450,USA,"Miami, FL",Industrial Log.,Verified
+MOMO-UAE-451,UAE,Palm Jumeirah,A-Grade Office,Verified
+MOMO-UAE-452,UAE,Palm Jumeirah,A-Grade Office,Verified
+MOMO-UK-453,UK,Mayfair,Industrial Log.,Verified
+MOMO-UAE-454,UAE,Palm Jumeirah,A-Grade Office,Verified
+MOMO-UAE-455,UAE,Palm Jumeirah,A-Grade Office,Verified
+MOMO-UAE-456,UAE,Dubai Hills,A-Grade Office,Verified
+MOMO-GER-457,GER,Frankfurt,A-Grade Office,Verified
+MOMO-UAE-458,UAE,Palm Jumeirah,Luxury Residential,Verified
+MOMO-AUS-459,AUS,Melbourne,Luxury Residential,Verified
+MOMO-GER-460,GER,"Mitte, Berlin",Industrial Log.,Verified
+MOMO-USA-461,USA,"Miami, FL",Luxury Residential,Verified
+MOMO-UAE-462,UAE,Palm Jumeirah,Industrial Log.,Verified
+MOMO-GER-463,GER,Munich,Luxury Residential,Verified
+MOMO-UAE-464,UAE,Palm Jumeirah,Luxury Residential,Verified
+MOMO-UK-465,UK,Mayfair,Luxury Residential,Verified
+MOMO-AUS-466,AUS,Melbourne,Industrial Log.,Verified
+MOMO-USA-467,USA,"Manhattan, NY",A-Grade Office,Verified
+MOMO-AUS-468,AUS,Perth,Industrial Log.,Verified
+MOMO-GER-469,GER,Frankfurt,Luxury Residential,Verified
+MOMO-UAE-470,UAE,Palm Jumeirah,Industrial Log.,Verified
+MOMO-GER-471,GER,Munich,Industrial Log.,Verified
+MOMO-UK-472,UK,Manchester,A-Grade Office,Verified
+MOMO-USA-473,USA,"Austin, TX",A-Grade Office,Verified
+MOMO-UK-474,UK,Canary Wharf,Luxury Residential,Verified
+MOMO-UK-475,UK,Mayfair,Industrial Log.,Verified
+MOMO-UAE-476,UAE,Palm Jumeirah,A-Grade Office,Verified
+MOMO-UAE-477,UAE,Business Bay,Luxury Residential,Verified
+MOMO-UK-478,UK,Manchester,Luxury Residential,Verified
+MOMO-USA-479,USA,"Miami, FL",Luxury Residential,Verified
+MOMO-AUS-480,AUS,Melbourne,Luxury Residential,Verified
+MOMO-AUS-481,AUS,Sydney,Luxury Residential,Verified
+MOMO-UAE-482,UAE,Palm Jumeirah,Industrial Log.,Verified
+MOMO-AUS-483,AUS,Sydney,Industrial Log.,Verified
+MOMO-UK-484,UK,Canary Wharf,A-Grade Office,Verified
+MOMO-USA-485,USA,"Miami, FL",Industrial Log.,Verified
+MOMO-AUS-486,AUS,Melbourne,A-Grade Office,Verified
+MOMO-UK-487,UK,Canary Wharf,Luxury Residential,Verified
+MOMO-AUS-488,AUS,Melbourne,A-Grade Office,Verified
+MOMO-UK-489,UK,Canary Wharf,Luxury Residential,Verified
+MOMO-AUS-490,AUS,Perth,Industrial Log.,Verified
+MOMO-GER-491,GER,Frankfurt,A-Grade Office,Verified
+MOMO-USA-492,USA,"Miami, FL",Luxury Residential,Verified
+MOMO-GER-493,GER,Frankfurt,A-Grade Office,Verified
+MOMO-AUS-494,AUS,Perth,Luxury Residential,Verified
+MOMO-AUS-495,AUS,Perth,Industrial Log.,Verified
+MOMO-AUS-496,AUS,Melbourne,Industrial Log.,Verified
+MOMO-AUS-497,AUS,Melbourne,A-Grade Office,Verified
+MOMO-UK-498,UK,Canary Wharf,Luxury Residential,Verified
+MOMO-AUS-499,AUS,Perth,Luxury Residential,Verified
+MOMO-GER-500,GER,Frankfurt,Industrial Log.,Verified

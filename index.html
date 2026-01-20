@@ -1,55 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8"><title>Momo Data Intelligence - Global</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Momo Data Intelligence - Global Dashboard</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         body { background: #050505; color: white; font-family: monospace; }
-        .grid-frame { background: #0a0a0a; border: 1px solid #1a1a1a; padding: 20px; border-radius: 12px; transition: 0.3s; }
-        .grid-frame:hover { border-color: #3b82f6; }
-        .terminal-log { background: #000; color: #00ff00; padding: 10px; font-size: 0.75rem; border-radius: 5px; margin: 10px 0; }
+        .frame { background: #0a0a0a; border: 1px solid #1a1a1a; padding: 20px; border-radius: 12px; transition: 0.3s; }
+        .frame:hover { border-color: #3b82f6; box-shadow: 0 0 15px rgba(59, 130, 246, 0.1); }
+        .log { background: #000; color: #00ff00; padding: 8px; font-size: 0.75rem; border-radius: 4px; margin: 10px 0; }
     </style>
 </head>
-<body class="p-10">
-    <header class="text-center mb-12">
-        <h1 class="text-4xl font-bold tracking-widest">MOMO GLOBAL INTELLIGENCE</h1>
-        <p class="text-blue-400 mt-2">REAL-TIME OSINT PIPELINE | JAN 2026</p>
-    </header>
+<body class="p-8">
+    <div class="max-w-7xl mx-auto">
+        <header class="text-center mb-16">
+            <h1 class="text-5xl font-bold tracking-tighter">MOMO GLOBAL OSINT</h1>
+            <p class="text-blue-500 mt-4 uppercase tracking-widest text-sm">Real-Time Market Intelligence | v2026.1</p>
+        </header>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        <div class="grid-frame">
-            <h2 class="text-xl font-bold">🇦🇪 UAE - DUBAI</h2>
-            <div class="text-4xl font-bold text-blue-500 my-4">400+</div>
-            <div class="terminal-log">> dld_scraper: active<br>> region: DXB_UAE</div>
-            <button class="w-full bg-blue-600 py-2 rounded font-bold">Access Market</button>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div class="frame">
+                <h3 class="text-xl font-bold">🇦🇪 UAE - Dubai</h3>
+                <div class="text-5xl font-bold text-blue-500 my-4">400+</div>
+                <div class="log">> engine: dld_scraper.py<br>> status: ACTIVE_SYNC<br>> market: steady_growth</div>
+                <button class="w-full bg-blue-600 py-3 rounded font-bold hover:bg-blue-700">Access UAE</button>
+            </div>
+
+            <div class="frame">
+                <h3 class="text-xl font-bold">🇺🇸 USA Market</h3>
+                <div class="text-5xl font-bold text-blue-500 my-4">150+</div>
+                <div class="log">> source: zillow_api<br>> status: STREAMING<br>> market: high_demand</div>
+                <button class="w-full bg-blue-600 py-3 rounded font-bold hover:bg-blue-700">Access USA</button>
+            </div>
+
+            <div class="frame">
+                <h3 class="text-xl font-bold">🇬🇧 UK - London</h3>
+                <div class="text-5xl font-bold text-blue-500 my-4">85+</div>
+                <div class="log">> source: rightmove_osint<br>> status: LIVE_FEED<br>> market: industrial_focus</div>
+                <button class="w-full bg-blue-600 py-3 rounded font-bold hover:bg-blue-700">Access UK</button>
+            </div>
+
+            <div class="frame">
+                <h3 class="text-xl font-bold">🇩🇪 Germany - BER</h3>
+                <div class="text-5xl font-bold text-blue-500 my-4">95+</div>
+                <div class="log">> source: immo_de<br>> status: SYNCED<br>> market: office_pivot</div>
+                <button class="w-full bg-blue-600 py-3 rounded font-bold hover:bg-blue-700">Access Germany</button>
+            </div>
+
+            <div class="frame">
+                <h3 class="text-xl font-bold">🇦🇺 Australia</h3>
+                <div class="text-5xl font-bold text-blue-500 my-4">150+</div>
+                <div class="log">> engine: rea_osint<br>> status: RECORD_HIGH<br>> market: supply_shortage</div>
+                <button class="w-full bg-blue-600 py-3 rounded font-bold hover:bg-blue-700">Access Australia</button>
+            </div>
         </div>
 
-        <div class="grid-frame">
-            <h2 class="text-xl font-bold">🇺🇸 USA MARKET</h2>
-            <div class="text-4xl font-bold text-blue-500 my-4">150+</div>
-            <div class="terminal-log">> zillow_api: streaming<br>> region: NY_MIA_TX</div>
-            <button class="w-full bg-blue-600 py-2 rounded font-bold">Access Market</button>
-        </div>
-
-        <div class="grid-frame">
-            <h2 class="text-xl font-bold">🇩🇪 GERMANY - BER</h2>
-            <div class="text-4xl font-bold text-blue-500 my-4">95+</div>
-            <div class="terminal-log">> immo_osint: synced<br>> region: EU_DE</div>
-            <button class="w-full bg-blue-600 py-2 rounded font-bold">Access Market</button>
-        </div>
-
-        <div class="grid-frame">
-            <h2 class="text-xl font-bold">🇬🇧 UK - LONDON</h2>
-            <div class="text-4xl font-bold text-blue-500 my-4">85+</div>
-            <div class="terminal-log">> rightmove: active<br>> region: EU_UK</div>
-            <button class="w-full bg-blue-600 py-2 rounded font-bold">Access Market</button>
-        </div>
-
-        <div class="grid-frame">
-            <h2 class="text-xl font-bold">🇦🇺 AUSTRALIA</h2>
-            <div class="text-4xl font-bold text-blue-500 my-4">150+</div>
-            <div class="terminal-log">> rea_osint: record_high<br>> region: AU_SYD_PER</div>
-            <button class="w-full bg-blue-600 py-2 rounded font-bold">Access Market</button>
+        <div class="mt-20 text-center p-12 border-2 border-dashed border-gray-900 rounded-xl">
+            <h2 class="text-2xl font-bold mb-4">Master Trial Database (ALL REGIONS)</h2>
+            <button onclick="window.location.href='dubai_leads_sample.csv'" class="bg-green-600 px-12 py-4 rounded-full text-xl font-bold hover:bg-green-700 transition">Download Global CSV</button>
         </div>
     </div>
 </body>
