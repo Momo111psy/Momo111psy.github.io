@@ -1,9 +1,101 @@
 Property_ID,Area,Type,Price_AED,Status
-DXB-001,Palm Jumeirah,Villa,15000000,Available
-DXB-003,Downtown Dubai,Apartment,4500000,Available
-DXB-004,Jumeirah Village Circle,Townhouse,2100000,Available
-DXB-005,Business Bay,Studio,950000,Available
-DXB-006,Dubai Marina,Apartment,1800000,Available
-DXB-007,Meydan,Villa,7500000,Available
-DXB-008,Damac Hills,Townhouse,2400000,Sold
-DXB-099,Palm Jumeirah,Penthouse,25000000,Available
+DXB-001,Dubai Hills,Apartment,11355287,Available
+DXB-002,Palm Jumeirah,Penthouse,6680499,Available
+DXB-003,Downtown Dubai,Apartment,23914038,Sold
+DXB-004,Dubai Hills,Villa,801145,Under Offer
+DXB-005,JVC,Townhouse,21028364,Available
+DXB-006,Palm Jumeirah,Townhouse,5447449,Available
+DXB-007,Downtown Dubai,Apartment,23310337,Available
+DXB-008,Dubai Hills,Penthouse,3730443,Available
+DXB-009,Downtown Dubai,Villa,22116176,Sold
+DXB-010,Downtown Dubai,Villa,1221858,Sold
+DXB-011,Palm Jumeirah,Penthouse,6358591,Sold
+DXB-012,Palm Jumeirah,Penthouse,20404034,Under Offer
+DXB-013,JVC,Townhouse,7732003,Sold
+DXB-014,Dubai Hills,Penthouse,1176475,Available
+DXB-015,JVC,Villa,21448676,Under Offer
+DXB-016,Dubai Hills,Townhouse,15940106,Under Offer
+DXB-017,Palm Jumeirah,Villa,21495657,Available
+DXB-018,Dubai Hills,Villa,19060386,Under Offer
+DXB-019,Palm Jumeirah,Penthouse,4581951,Under Offer
+DXB-020,JVC,Penthouse,11757637,Available
+DXB-021,Dubai Marina,Penthouse,16206754,Available
+DXB-022,Dubai Marina,Apartment,15600841,Sold
+DXB-023,Downtown Dubai,Townhouse,2984799,Under Offer
+DXB-024,Dubai Marina,Apartment,13003104,Available
+DXB-025,Dubai Marina,Penthouse,22797957,Sold
+DXB-026,Dubai Hills,Penthouse,23443569,Available
+DXB-027,Business Bay,Penthouse,16308723,Sold
+DXB-028,Business Bay,Apartment,23235754,Sold
+DXB-029,Dubai Marina,Apartment,5841112,Sold
+DXB-030,Business Bay,Villa,18291245,Available
+DXB-031,Dubai Hills,Villa,5431374,Sold
+DXB-032,Palm Jumeirah,Penthouse,22703625,Sold
+DXB-033,JVC,Townhouse,16343311,Under Offer
+DXB-034,Downtown Dubai,Apartment,19987078,Available
+DXB-035,Palm Jumeirah,Townhouse,8798410,Available
+DXB-036,Palm Jumeirah,Penthouse,17073607,Sold
+DXB-037,Business Bay,Penthouse,7758304,Under Offer
+DXB-038,JVC,Townhouse,10696027,Under Offer
+DXB-039,Business Bay,Penthouse,8094115,Sold
+DXB-040,Dubai Hills,Townhouse,13938591,Sold
+DXB-041,Business Bay,Penthouse,4800286,Available
+DXB-042,Dubai Hills,Penthouse,12142883,Sold
+DXB-043,JVC,Townhouse,980897,Available
+DXB-044,JVC,Apartment,9571039,Available
+DXB-045,Palm Jumeirah,Villa,15693312,Sold
+DXB-046,Dubai Marina,Apartment,22817249,Under Offer
+DXB-047,Dubai Hills,Penthouse,10487470,Sold
+DXB-048,Dubai Hills,Apartment,9700407,Under Offer
+DXB-049,Dubai Marina,Penthouse,8457883,Sold
+DXB-050,Dubai Marina,Townhouse,12294132,Under Offer
+DXB-051,Dubai Hills,Apartment,4800791,Sold
+DXB-052,Palm Jumeirah,Townhouse,6861782,Sold
+DXB-053,Palm Jumeirah,Villa,21505798,Available
+DXB-054,Palm Jumeirah,Penthouse,2442993,Under Offer
+DXB-055,Downtown Dubai,Townhouse,18305061,Sold
+DXB-056,Business Bay,Townhouse,10152574,Under Offer
+DXB-057,Palm Jumeirah,Penthouse,1893778,Available
+DXB-058,Business Bay,Townhouse,12816238,Available
+DXB-059,Dubai Hills,Villa,10915475,Sold
+DXB-060,Dubai Hills,Townhouse,8111247,Available
+DXB-061,Palm Jumeirah,Townhouse,6991187,Available
+DXB-062,JVC,Apartment,20769897,Available
+DXB-063,Dubai Marina,Apartment,5054022,Available
+DXB-064,Dubai Hills,Townhouse,5172846,Under Offer
+DXB-065,Palm Jumeirah,Apartment,19292056,Under Offer
+DXB-066,Dubai Marina,Townhouse,2542693,Under Offer
+DXB-067,Downtown Dubai,Apartment,11313952,Sold
+DXB-068,JVC,Villa,19318392,Under Offer
+DXB-069,Business Bay,Penthouse,5681567,Available
+DXB-070,Dubai Hills,Villa,17279030,Under Offer
+DXB-071,Dubai Hills,Villa,18012334,Sold
+DXB-072,Downtown Dubai,Apartment,11217438,Under Offer
+DXB-073,Downtown Dubai,Townhouse,12332872,Available
+DXB-074,JVC,Penthouse,4698680,Sold
+DXB-075,Palm Jumeirah,Townhouse,9498232,Sold
+DXB-076,Downtown Dubai,Apartment,24762592,Available
+DXB-077,Business Bay,Townhouse,965235,Under Offer
+DXB-078,Downtown Dubai,Townhouse,2135029,Under Offer
+DXB-079,JVC,Townhouse,20868814,Under Offer
+DXB-080,Dubai Hills,Townhouse,13527403,Sold
+DXB-081,JVC,Penthouse,17603011,Under Offer
+DXB-082,Dubai Hills,Townhouse,6486514,Sold
+DXB-083,Palm Jumeirah,Penthouse,13148086,Under Offer
+DXB-084,Dubai Marina,Villa,20479670,Under Offer
+DXB-085,Business Bay,Townhouse,18854357,Available
+DXB-086,Dubai Marina,Apartment,17864263,Available
+DXB-087,Dubai Hills,Apartment,13287252,Sold
+DXB-088,Business Bay,Penthouse,7415871,Available
+DXB-089,Business Bay,Penthouse,21919970,Available
+DXB-090,Dubai Hills,Penthouse,12685608,Under Offer
+DXB-091,Business Bay,Villa,8617325,Available
+DXB-092,JVC,Villa,1574478,Sold
+DXB-093,Business Bay,Penthouse,16506533,Under Offer
+DXB-094,Business Bay,Villa,20007676,Available
+DXB-095,Palm Jumeirah,Penthouse,855069,Under Offer
+DXB-096,Business Bay,Villa,16800963,Available
+DXB-097,Dubai Hills,Penthouse,9595884,Sold
+DXB-098,JVC,Villa,12828383,Under Offer
+DXB-099,JVC,Villa,20308569,Sold
+DXB-100,Downtown Dubai,Penthouse,14893591,Sold
