@@ -102,3 +102,7 @@ DXB-100,Downtown Dubai,Penthouse,14893591,Sold
 INFRA-001,Bayut Agent Portal,Subdomain,N/A,profolio.bayut.com
 INFRA-002,Bayut Email Engine,Subdomain,N/A,omp.emails.bayut.com
 INFRA-003,Bayut Mobile API,Subdomain,N/A,m.bayut.com
+AG-001,Downtown Dubai,Executive Agent,N/A,ahmed.dxb@bayut.agent
+AG-002,Palm Jumeirah,Luxury Specialist,N/A,sarah.palm@bayut.agent
+AG-003,Dubai Marina,Senior Broker,N/A,mike.marina@bayut.agent
+AG-004,Business Bay,Commercial Lead,N/A,youssef.bb@bayut.agent
