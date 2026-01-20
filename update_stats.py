@@ -1,8 +1,16 @@
-import re
+import datetime
+
+# Count current leads
 with open('dubai_leads_sample.csv', 'r') as f:
-    count = len(f.readlines()) - 1
+    count = sum(1 for line in f) - 1
+
+# Update the HTML file
 with open('index.html', 'r') as f:
-    html = f.read()
-new_html = re.sub(r'<span id="lead-count">.*?</span>', f'<span id="lead-count">{count}</span>', html)
+    content = f.read()
+
+# Replace the number and add trial info
+content = content.replace('107', str(count))
+content = content.replace('2026-01-20 16:07', datetime.datetime.now().strftime('%Y-%m-%d %H:%M'))
+
 with open('index.html', 'w') as f:
-    f.write(new_html)
+    f.write(content)

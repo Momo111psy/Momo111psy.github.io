@@ -1,84 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Momo Data Intelligence - Global Portal</title>
+    <meta charset="UTF-8"><title>Momo Data Intelligence - Real Time</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        body { background-color: #050505; color: white; font-family: 'Courier New', Courier, monospace; }
-        .grid-card { background: #0a0a0a; border: 1px solid #1a1a1a; border-radius: 12px; padding: 1.5rem; transition: 0.3s; }
-        .grid-card:hover { border-color: #3b82f6; box-shadow: 0 0 15px rgba(59, 130, 246, 0.2); }
-        .terminal-text { color: #00ff00; font-size: 0.75rem; background: #000; padding: 8px; border-radius: 4px; }
+        body { background: #050505; color: white; font-family: monospace; }
+        .frame { border: 1px solid #222; background: #0a0a0a; padding: 20px; border-radius: 10px; }
+        .stat { color: #3b82f6; font-size: 2rem; font-weight: bold; }
+        .log { background: #000; color: #00ff00; padding: 10px; font-size: 0.7rem; margin-top: 10px; }
     </style>
 </head>
-<body class="p-6">
-    <div class="max-w-7xl mx-auto">
-        <header class="mb-10 text-center">
-            <h1 class="text-4xl font-bold tracking-tighter">MOMO DATA INTELLIGENCE</h1>
-            <p class="text-blue-400 mt-2">GLOBAL REAL-TIME OSINT PIPELINE (TRIAL ACTIVE)</p>
-        </header>
-
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <div class="grid-card">
-                <h3 class="text-xl font-bold">🇦🇪 UAE - Dubai</h3>
-                <p class="text-4xl font-bold my-4 text-blue-500">400</p>
-                <div class="terminal-text mb-4">
-                    > engine: dld_scraper.py<br>
-                    > status: ACTIVE_SYNC<br>
-                    > region: DXB_UAE
-                </div>
-                <button class="w-full bg-blue-600 hover:bg-blue-700 py-2 rounded font-bold">Access Trial</button>
-            </div>
-
-            <div class="grid-card">
-                <h3 class="text-xl font-bold">🇺🇸 USA - NY/MIA</h3>
-                <p class="text-4xl font-bold my-4 text-blue-500">100</p>
-                <div class="terminal-text mb-4">
-                    > engine: zillow_osint.py<br>
-                    > status: LIVE_FEED<br>
-                    > region: USA_EAST
-                </div>
-                <button class="w-full bg-blue-600 hover:bg-blue-700 py-2 rounded font-bold">Access Trial</button>
-            </div>
-
-            <div class="grid-card">
-                <h3 class="text-xl font-bold">🇩🇪 Germany - BER</h3>
-                <p class="text-4xl font-bold my-4 text-blue-500">64</p>
-                <div class="terminal-text mb-4">
-                    > engine: immoscout_osint.py<br>
-                    > status: ACTIVE_SYNC<br>
-                    > region: EU_DE
-                </div>
-                <button class="w-full bg-blue-600 hover:bg-blue-700 py-2 rounded font-bold">Access Trial</button>
-            </div>
-
-            <div class="grid-card">
-                <h3 class="text-xl font-bold">🇬🇧 UK - London</h3>
-                <p class="text-4xl font-bold my-4 text-blue-500">85</p>
-                <div class="terminal-text mb-4">
-                    > engine: rightmove_osint.py<br>
-                    > status: LIVE_FEED<br>
-                    > region: EU_UK
-                </div>
-                <button class="w-full bg-blue-600 hover:bg-blue-700 py-2 rounded font-bold">Access Trial</button>
-            </div>
-            
-            <div class="grid-card">
-                <h3 class="text-xl font-bold">🇨🇭 Switzerland</h3>
-                <p class="text-4xl font-bold my-4 text-blue-500">32</p>
-                <div class="terminal-text mb-4">
-                    > engine: swiss_osint.py<br>
-                    > status: MONITORING<br>
-                    > region: EU_CH
-                </div>
-                <button class="w-full bg-blue-600 hover:bg-blue-700 py-2 rounded font-bold">Access Trial</button>
-            </div>
+<body class="p-10">
+    <h1 class="text-3xl font-bold mb-10 text-center">GLOBAL REAL-TIME INTELLIGENCE</h1>
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div class="frame">
+            <h3>🇺🇸 USA MARKET</h3>
+            <div class="stat">100+</div>
+            <div class="log">> source: ZILLOW_API<br>> status: STREAMING</div>
+            <button class="w-full mt-4 bg-blue-600 py-2 rounded">Buy Data</button>
         </div>
 
-        <div class="mt-12 p-6 border border-dashed border-gray-800 text-center">
-            <p class="text-gray-500 text-sm">Download Trial Database for All Regions</p>
-            <button onclick="window.location.href='dubai_leads_sample.csv'" class="mt-4 bg-green-600 hover:bg-green-700 px-8 py-3 rounded-full font-bold">Download Trial CSV</button>
+        <div class="frame">
+            <h3>🇬🇧 UK MARKET</h3>
+            <div class="stat">85+</div>
+            <div class="log">> source: RIGHTMOVE_OSINT<br>> status: ACTIVE</div>
+            <button class="w-full mt-4 bg-blue-600 py-2 rounded">Buy Data</button>
+        </div>
+
+        <div class="frame">
+            <h3>🇩🇪 GERMANY MARKET</h3>
+            <div class="stat">64+</div>
+            <div class="log">> source: IMMO_DE<br>> status: SYNCED</div>
+            <button class="w-full mt-4 bg-blue-600 py-2 rounded">Buy Data</button>
+        </div>
+
+        <div class="frame">
+            <h3>🇨🇭 SWITZERLAND</h3>
+            <div class="stat">32+</div>
+            <div class="log">> source: SWISS_OSINT<br>> status: MONITORING</div>
+            <button class="w-full mt-4 bg-blue-600 py-2 rounded">Buy Data</button>
         </div>
     </div>
 </body>
