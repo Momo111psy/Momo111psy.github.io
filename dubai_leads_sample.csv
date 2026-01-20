@@ -99,3 +99,6 @@ DXB-097,Dubai Hills,Penthouse,9595884,Sold
 DXB-098,JVC,Villa,12828383,Under Offer
 DXB-099,JVC,Villa,20308569,Sold
 DXB-100,Downtown Dubai,Penthouse,14893591,Sold
+INFRA-001,Bayut Agent Portal,Subdomain,N/A,profolio.bayut.com
+INFRA-002,Bayut Email Engine,Subdomain,N/A,omp.emails.bayut.com
+INFRA-003,Bayut Mobile API,Subdomain,N/A,m.bayut.com
