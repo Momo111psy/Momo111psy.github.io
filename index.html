@@ -1,45 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8"><title>Momo Data Intelligence - Real Time</title>
+    <meta charset="UTF-8"><title>Momo Data Intelligence - Global</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         body { background: #050505; color: white; font-family: monospace; }
-        .frame { border: 1px solid #222; background: #0a0a0a; padding: 20px; border-radius: 10px; }
-        .stat { color: #3b82f6; font-size: 2rem; font-weight: bold; }
-        .log { background: #000; color: #00ff00; padding: 10px; font-size: 0.7rem; margin-top: 10px; }
+        .grid-frame { background: #0a0a0a; border: 1px solid #1a1a1a; padding: 20px; border-radius: 12px; transition: 0.3s; }
+        .grid-frame:hover { border-color: #3b82f6; }
+        .terminal-log { background: #000; color: #00ff00; padding: 10px; font-size: 0.75rem; border-radius: 5px; margin: 10px 0; }
     </style>
 </head>
 <body class="p-10">
-    <h1 class="text-3xl font-bold mb-10 text-center">GLOBAL REAL-TIME INTELLIGENCE</h1>
-    
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        <div class="frame">
-            <h3>🇺🇸 USA MARKET</h3>
-            <div class="stat">150+</div>
-            <div class="log">> source: ZILLOW_API<br>> status: STREAMING</div>
-            <button class="w-full mt-4 bg-blue-600 py-2 rounded">Buy Data</button>
+    <header class="text-center mb-12">
+        <h1 class="text-4xl font-bold tracking-widest">MOMO GLOBAL INTELLIGENCE</h1>
+        <p class="text-blue-400 mt-2">REAL-TIME OSINT PIPELINE | JAN 2026</p>
+    </header>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div class="grid-frame">
+            <h2 class="text-xl font-bold">🇦🇪 UAE - DUBAI</h2>
+            <div class="text-4xl font-bold text-blue-500 my-4">400+</div>
+            <div class="terminal-log">> dld_scraper: active<br>> region: DXB_UAE</div>
+            <button class="w-full bg-blue-600 py-2 rounded font-bold">Access Market</button>
         </div>
 
-        <div class="frame">
-            <h3>🇬🇧 UK MARKET</h3>
-            <div class="stat">85+</div>
-            <div class="log">> source: RIGHTMOVE_OSINT<br>> status: ACTIVE</div>
-            <button class="w-full mt-4 bg-blue-600 py-2 rounded">Buy Data</button>
+        <div class="grid-frame">
+            <h2 class="text-xl font-bold">🇺🇸 USA MARKET</h2>
+            <div class="text-4xl font-bold text-blue-500 my-4">150+</div>
+            <div class="terminal-log">> zillow_api: streaming<br>> region: NY_MIA_TX</div>
+            <button class="w-full bg-blue-600 py-2 rounded font-bold">Access Market</button>
         </div>
 
-        <div class="frame">
-            <h3>🇩🇪 GERMANY MARKET</h3>
-            <div class="stat">95+</div>
-            <div class="log">> source: IMMO_DE<br>> status: SYNCED</div>
-            <button class="w-full mt-4 bg-blue-600 py-2 rounded">Buy Data</button>
+        <div class="grid-frame">
+            <h2 class="text-xl font-bold">🇩🇪 GERMANY - BER</h2>
+            <div class="text-4xl font-bold text-blue-500 my-4">95+</div>
+            <div class="terminal-log">> immo_osint: synced<br>> region: EU_DE</div>
+            <button class="w-full bg-blue-600 py-2 rounded font-bold">Access Market</button>
         </div>
 
-        <div class="frame">
-            <h3>🇨🇭 SWITZERLAND</h3>
-            <div class="stat">32+</div>
-            <div class="log">> source: SWISS_OSINT<br>> status: MONITORING</div>
-            <button class="w-full mt-4 bg-blue-600 py-2 rounded">Buy Data</button>
+        <div class="grid-frame">
+            <h2 class="text-xl font-bold">🇬🇧 UK - LONDON</h2>
+            <div class="text-4xl font-bold text-blue-500 my-4">85+</div>
+            <div class="terminal-log">> rightmove: active<br>> region: EU_UK</div>
+            <button class="w-full bg-blue-600 py-2 rounded font-bold">Access Market</button>
+        </div>
+
+        <div class="grid-frame">
+            <h2 class="text-xl font-bold">🇦🇺 AUSTRALIA</h2>
+            <div class="text-4xl font-bold text-blue-500 my-4">150+</div>
+            <div class="terminal-log">> rea_osint: record_high<br>> region: AU_SYD_PER</div>
+            <button class="w-full bg-blue-600 py-2 rounded font-bold">Access Market</button>
         </div>
     </div>
 </body>
