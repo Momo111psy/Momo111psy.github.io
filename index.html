@@ -12,7 +12,13 @@
         .log { background: #000; color: #00ff00; padding: 8px; font-size: 0.75rem; border-radius: 4px; margin: 10px 0; }
     </style>
 </head>
-<body class="p-8">
+<body class='p-8'>
+        <div class="frame mt-8 mb-4">
+            <div class="flex items-center border-b border-blue-500 py-2">
+                <span class="text-blue-500 mr-3">DATABASE_QUERY > </span>
+                <input id="searchInput" class="appearance-none bg-transparent border-none w-full text-white mr-3 py-1 px-2 leading-tight focus:outline-none" type="text" placeholder="Search by name, phone, or location..." onkeyup="filterTable()">
+            </div>
+        </div>
     <div class="max-w-7xl mx-auto">
         <header class="text-center mb-16">
             <h1 class="text-5xl font-bold tracking-tighter">MOMO GLOBAL OSINT</h1>
@@ -69,5 +75,21 @@
                 [DATA PUSH] Synced with GitHub at 08:38:05
             </div>
         </div>
+    <script>
+        function filterTable() {
+            let input = document.getElementById('searchInput');
+            let filter = input.value.toUpperCase();
+            // Assuming your data is in a table or list of 'frame' classes
+            let cards = document.querySelectorAll('.frame');
+            
+            cards.forEach(card => {
+                // Don't filter the header or search bar themselves
+                if (!card.contains(input)) {
+                    let text = card.innerText || card.textContent;
+                    card.style.display = text.toUpperCase().indexOf(filter) > -1 ? "" : "none";
+                }
+            });
+        }
+    </script>
 </body>
 </html>
